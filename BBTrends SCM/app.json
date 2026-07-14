@@ -1,0 +1,34 @@
+{
+  "id": "bff8c2a9-a111-4d35-95d8-ee55b9738bfb",
+  "name": "BBTrends SCM",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.1",
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [],
+  "screenshots": [],
+  "idRanges": [
+    {
+      "from": 51250,
+      "to": 51299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

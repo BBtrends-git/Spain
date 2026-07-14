@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BBTrends SRM">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2873473275 - Field 285568591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation Manager</source>
+          <target state="translated">Responsable Evaluación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Responsable Evaluación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Evaluation Manager - Field Evaluation Manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors Relationship Setup</source>
+          <target state="translated">Configuración de Relaciones con Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración de Relaciones con Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 213941155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classification Count</source>
+          <target state="translated">Clasificaciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificaciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Classification Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 1952849841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SRM Classification Enabled</source>
+          <target state="translated">Clasificación Proveedor Activado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Proveedor Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Classification Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 3507446563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SRM Enabled</source>
+          <target state="translated">SRM Activado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="SRM Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 96465553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluators Count</source>
+          <target state="translated">Evaluadores</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Evaluadores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Evaluators Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 2953959219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SRM Performance Enabled</source>
+          <target state="translated">Eficiencia Proveedor Activado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Eficiencia Proveedor Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Performance Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82924205 - Field 3498120659 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SRM Type Enabled</source>
+          <target state="translated">Tipo Proveedor Activado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Proveedor Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Setup - Field SRM Type Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1608426434 - Field 61007498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classification</source>
+          <target state="translated">Clasificación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Vendor Classification - Field Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2421353085 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category</source>
+          <target state="translated">Categoria</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Vendor Item Categories - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2421353085 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Vendor Item Categories - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2421353085 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <target state="translated">No. Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SRM Vendor Item Categories - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2873473275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation Manager</source>
+          <target state="translated">Responsable Evaluación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Responsable Evaluación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Evaluation Manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors Relationship Setup</source>
+          <target state="translated">Configuración de Relaciones con Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración de Relaciones con Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Control 61007498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classification</source>
+          <target state="translated">Clasificación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Control Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Control 2791480348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classifications</source>
+          <target state="translated">Clasificaciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificaciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Control TextCountClassification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Control 264136330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluators</source>
+          <target state="translated">Evaluadores</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Evaluadores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Control TextCountEvaluators - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Control 4126130292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration</source>
+          <target state="translated">Configuración</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Control Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Action 96289834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classification</source>
+          <target state="translated">Clasificación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Action ClassificationProcesing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Action 572837650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation Manager</source>
+          <target state="translated">Resp.Evaluación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Resp.Evaluación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Action EvaluationProcesing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Action 617501157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Questionnaire</source>
+          <target state="translated">Cuestionarios</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cuestionarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Action VendorQuestionnaire - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1393030289 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="translated">Procesar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Procesar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Setup Card - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1608426434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Classification</source>
+          <target state="translated">Clasificación Proveedores</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Proveedores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Vendor Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3670397796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment Sheet</source>
+          <target state="translated">Comentarios</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentarios</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Vendor Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2421353085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Item Categories</source>
+          <target state="translated">Categorias Producto del Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categorias de Producto del Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SRM Vendor Item Categories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278682819 - Control 1452802528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Vendors Relationship</source>
+          <target state="translated">Relaciones con Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Relaciones con Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Vendor Card - Control SRM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278682819 - Control 2296740931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Last Comment</source>
+          <target state="translated">Ultimo Comentario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Ultimo Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Vendor Card - Control LastComment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278682819 - Control 233732813 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Item Categories</source>
+          <target state="translated">Categorias de Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categorias de Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Vendor Card - Control TextCategories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278682819 - Control 2001636356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Contact</source>
+          <target state="translated">Contacto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Contacto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Vendor Card - Control SRM_03 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2278682819 - Control 2781320703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Primary Contact Code</source>
+          <target state="translated">Contacto Principal</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Contacto Principal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Vendor Card - Control SRMContactNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3112001191 - Field 2873473275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Evaluation Manager</source>
+          <target state="translated">Responsable Evaluación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Responsable Evaluación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Vendor - Field SRM Evaluation Manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3112001191 - Field 46510936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Last Evaluation Date</source>
+          <target state="translated">Ultima Evaluación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Ultima Evaluación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Vendor - Field SRM Last Evaluation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3112001191 - Field 1608426434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Vendor Classification</source>
+          <target state="translated">Clasificación Provedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Provedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Vendor - Field SRM Vendor Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3112001191 - Field 4291968292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Vendor Performance</source>
+          <target state="translated">Eficiencia Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Eficiencia Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Vendor - Field SRM Vendor Performance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3112001191 - Field 866978276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Vendor Type</source>
+          <target state="translated">Tipo Proveedor</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Proveedor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Vendor - Field SRM Vendor Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4291968292 - EnumValue 876174005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deficient</source>
+          <target state="translated">Deficiente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Deficiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Performance - EnumValue Deficient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4291968292 - EnumValue 1680140304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excellent</source>
+          <target state="translated">Excelente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Excelente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Performance - EnumValue Excellent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4291968292 - EnumValue 4041807949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Good</source>
+          <target state="translated">Bien</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bien"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Performance - EnumValue Good - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4291968292 - EnumValue 2290603641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notable</source>
+          <target state="translated">Notable</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Notable"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Performance - EnumValue Notable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4291968292 - EnumValue 2828652086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sufficient</source>
+          <target state="translated">Suficiente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Suficiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Performance - EnumValue Sufficient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 866978276 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="translated"></target>
+          <note from="Developer" annotates="general" priority="2">ESP=""</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Type - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 866978276 - EnumValue 3939861283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A</source>
+          <target state="translated">A</target>
+          <note from="Developer" annotates="general" priority="2">ESP="A"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Type - EnumValue A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 866978276 - EnumValue 1557983838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B</source>
+          <target state="translated">B</target>
+          <note from="Developer" annotates="general" priority="2">ESP="B"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Type - EnumValue B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 866978276 - EnumValue 920287221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C</source>
+          <target state="translated">C</target>
+          <note from="Developer" annotates="general" priority="2">ESP="C"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SRM Vendor Type - EnumValue C - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

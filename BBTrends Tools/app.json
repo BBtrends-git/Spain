@@ -1,0 +1,56 @@
+{
+  "id": "7b8a5d12-8b99-490a-88f2-8ac05b6ee7a0",
+  "name": "BBTrends Tools",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.3",
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [
+    {
+      "id": "d4d8b943-deea-4de2-9e15-dbbf14b442ed",
+      "name": "BBTrends Base",
+      "version": "28.0.0.0",
+      "publisher": "B&B Trends"
+    },
+    {
+      "id": "18b982ea-7531-4e77-99a0-7ca26ddc6d0a",
+      "name": "BBTrends RMAs",
+      "version": "28.0.0.0",
+      "publisher": "B&B Trends"
+    },
+    {
+    "id": "1627c646-a639-4a0c-82cb-75416b7b3f5b",
+    "publisher": "B&B Trends",
+    "name": "BBTrends SMG",
+    "version": "28.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 59000,
+      "to": 59050
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+
+  "features": 
+  [
+    "NoImplicitWith"
+  ]
+}

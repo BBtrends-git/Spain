@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="BBTrends RMAs">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4237814255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Reason</source>
+          <target state="translated">Motivos Devolucion Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivos Devolucion Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAS Auxiliary Table States - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4237814255 - Field 1298310111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Name</source>
+          <target state="translated">Nombre Auxiliar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAS Auxiliary Table States - Field Auxiliary Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4237814255 - Field 1105327614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auxiliary Type</source>
+          <target state="translated">Tipo Auxiliar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Auxiliar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAS Auxiliary Table States - Field Auxiliary Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Cue</source>
+          <target state="translated">RMAs Cue</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 3998183656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units to Transfer</source>
+          <target state="translated">Unids. a Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unids. a Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Line Pendig Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 858124144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived</source>
+          <target state="translated">Archivados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Archivados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Package Archived - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 426296814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <target state="translated">Registrados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Registrados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Package registered - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 2700372858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To be transferred</source>
+          <target state="translated">Bultos a Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos a Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Package to be transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 3871272126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred</source>
+          <target state="translated">Transferidos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Transferidos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Package transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 1947782476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target state="translated">Cerrados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cerrados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field RMAs Package - Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 3294184242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target state="translated">Abiertos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Abiertos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field RMAs Package - Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 1074201883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pendent Returns</source>
+          <target state="translated">Devoluciones Pendientes</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devoluciones Pendientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field RMAs Package - Pending Qty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 1683962085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <target state="translated">Registrados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Registrados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field RMAs Package - Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 3061233890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Orders</source>
+          <target state="translated">Pedidos de Transferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Pedidos de Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Transfer Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2207357642 - Field 4104228993 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units Pendig Cr Memo</source>
+          <target state="translated">Unids. pdtes Abonar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unids. pdtes Abonar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Cue - Field Units Pendig Cr Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Packages</source>
+          <target state="translated">Bultos Devolucion Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Devolucion Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <target state="translated">Fecha Alta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Alta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 1476189427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numbers of Packages</source>
+          <target state="translated">Numero de Bultos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Bultos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Numbers Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">No. Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 3720487258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Status</source>
+          <target state="translated">Estado Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Package Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 116357982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Type</source>
+          <target state="translated">Tipo de Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo de Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Package Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 3991299934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered Package</source>
+          <target state="translated">Bulto Registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Registered Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3551842809 - Field 2048387142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Category</source>
+          <target state="translated">Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package - Field Return Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Package Lines</source>
+          <target state="translated">Lineas Bultos Devolucion Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Lineas Bultos Devolucion Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 3131798682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Date</source>
+          <target state="translated">Fecha Análisis</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Analisis"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Analysis Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 696389717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition</source>
+          <target state="translated">Estado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 314785063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN of Unit</source>
+          <target state="translated">EAN Unidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN Unidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field EAN of Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 1722204626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident</source>
+          <target state="translated">Incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Incident - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 459642014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident Reason</source>
+          <target state="translated">Notas Incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Notas Incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Incident Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">No. Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 3422731008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Number</source>
+          <target state="translated">Número Lote</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número Lote"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Lot Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 3199049368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Line</source>
+          <target state="translated">No. Linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">No. Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 4042090374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Quantity</source>
+          <target state="translated">Cantidad Registrada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Registrada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Posted Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 1483341903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Cantidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 3991299934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered Package</source>
+          <target state="translated">Bulto Registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Registered Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 2367056265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Quantity</source>
+          <target state="translated">Cantidad Restante</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Restante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Remaining Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 571468901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Order No.</source>
+          <target state="translated">No. Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Return Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 1047125746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason</source>
+          <target state="translated">Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Return Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2921753315 - Field 2325595124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Operator</source>
+          <target state="translated">Operador Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Line - Field Return Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Sales Packages Lines Queries</source>
+          <target state="translated">Consulta Lineas Bultos Devolucion Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Consulta Lineas Bultos Devolucion Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1669759514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjusted Qty.</source>
+          <target state="translated">Cantidad Adjustada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Adjustada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Adjusted Qty. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1407200743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creation Date</source>
+          <target state="translated">Fecha Alta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Alta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Creation Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 314785063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN of Unit</source>
+          <target state="translated">EAN Unidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN Unidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field EAN of Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 459642014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident Reason</source>
+          <target state="translated">Notas Incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Notas Incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Incident Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">No. Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1476189427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numbers of Packages</source>
+          <target state="translated">Numero de Bultos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Bultos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Numbers Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 3199049368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Line</source>
+          <target state="translated">No. Linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">No. Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 3720487258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Status</source>
+          <target state="translated">Estado Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Package Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 116357982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Type</source>
+          <target state="translated">Tipo de Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo de Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Package Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 274761946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted No.</source>
+          <target state="translated">No. Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Posted No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2683185145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. Invoiced</source>
+          <target state="translated">Cantidad Facturada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Facturada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. Invoiced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2273023891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. Returned</source>
+          <target state="translated">Cantidad Devuelta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Devuelta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. Returned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2271928360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. to Invoiced</source>
+          <target state="translated">Cantidad a Facturar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad a Facturar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. to Invoiced - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2683601221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. to Return</source>
+          <target state="translated">Cantidad Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. to Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 3301100758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. to Returned</source>
+          <target state="translated">Cantidad a Devolver</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad a Devolver"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. to Returned - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1766843734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. to Transfer</source>
+          <target state="translated">Cantidad a Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad a Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Qty. to Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1483341903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Cantidad en Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad en Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 3991299934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered Package</source>
+          <target state="translated">Bulto Registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Registered Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2048387142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Category</source>
+          <target state="translated">Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2371264898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Customer</source>
+          <target state="translated">Cliente Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cliente Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2333490011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Customer Name</source>
+          <target state="translated">Nombre Cliente Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Cliente Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 571468901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Order No.</source>
+          <target state="translated">No. Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1047125746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason</source>
+          <target state="translated">Motivo Retorno</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Retorno"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 1576505637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason Code</source>
+          <target state="translated">Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Reason Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2325595124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Operator</source>
+          <target state="translated">Operador Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Return Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2515697010 - Field 2753375670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred Qty.</source>
+          <target state="translated">Cantidad Transferida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Transferida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Lines Queries - Field Transferred Qty. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Transfer Matrix</source>
+          <target state="translated">Matriz de Transferencia de Bultos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Matriz de Transferencia de Bultos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 314785063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN of Unit</source>
+          <target state="translated">EAN Unidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN Unidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field EAN of Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 1589543977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Posted No.</source>
+          <target state="translated">Registro Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Original Posted No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 77295680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Posted Package Line</source>
+          <target state="translated">Linea Bulto Registrado Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Linea Bulto Registrado Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Original Posted Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 207700967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Posted Package No.</source>
+          <target state="translated">Bulto Registrado Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Registrado Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Original Posted Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 3199049368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination Package Line</source>
+          <target state="translated">Linea Bulto Destino</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Linea Bulto Destino"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination Package No.</source>
+          <target state="translated">Bulto Destino</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Destino"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 3876346401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Package Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Cantidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 479913333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity to Transfer</source>
+          <target state="translated">Cantidad a Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad a Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Quantity to Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1853225033 - Field 1743073484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred</source>
+          <target state="translated">Transferido</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Transferido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Package Transfer Matrix - Field Transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Packages</source>
+          <target state="translated">Bultos Registrados Devolucion</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Registrados Devolucion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Method 1983329792 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The registered package  %1 could not be inserted</source>
+          <target state="translated">No se ha podido dar de alta el bulto registrado %1</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se ha podido dar de alta el bulto registrado %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Method ManageRMAPostedPackage - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 2497943918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fully Transferred</source>
+          <target state="translated">Totalmente Transferido</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Totalmente Transferido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Fully Transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 1476189427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numbers of Packages</source>
+          <target state="translated">Numero de Bultos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Bultos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Numbers Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 116357982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Type</source>
+          <target state="translated">Tipo de Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo de Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Package Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 322225615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Date</source>
+          <target state="translated">Fecha Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Posted Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 274761946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted No.</source>
+          <target state="translated">No. Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Posted No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 4245777256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Package No.</source>
+          <target state="translated">No. Bulto Registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto Registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Posted Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4265899354 - Field 2048387142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Category</source>
+          <target state="translated">Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package - Field Return Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Package Lines</source>
+          <target state="translated">Lineas Bultos Registrados Devolucion</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Lineas Bultos Registrados Devolucion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Method 2764065470 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The registered line package  %1 - %2 - %3 could not be inserted</source>
+          <target state="translated">No se ha podido dar de alta la linea bulto registrado %1 - %2 - %3</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se ha podido dar de alta la linea bulto registrado %1 - %2 - %3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Method ManageRMAPostedPackageLine - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 2845175641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjusted Quantity</source>
+          <target state="translated">Cantidad Ajustada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Ajustada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Adjusted Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 3131798682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis Date</source>
+          <target state="translated">Fecha Analisis</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Analisis"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Analysis Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 696389717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition</source>
+          <target state="translated">Estado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Condition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 314785063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN of Unit</source>
+          <target state="translated">EAN Unidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN Unidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field EAN of Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 2497943918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Transferred</source>
+          <target state="translated">Línea Transferida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Línea Transferida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Fully Transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 1722204626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident</source>
+          <target state="translated">Incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Incident - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 459642014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident Reason</source>
+          <target state="translated">Notas Incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Notas Incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Incident Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">No. Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 3422731008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Number</source>
+          <target state="translated">Número Lote</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Número Lote"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Lot Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 274761946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted No.</source>
+          <target state="translated">No. Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Posted No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 82524759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Package Line</source>
+          <target state="translated">No. Linea Registrada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Linea Registrada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Posted Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 4245777256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Package No.</source>
+          <target state="translated">No. Bulto Registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto Registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Posted Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 1483341903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Cantidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 571468901 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Order No.</source>
+          <target state="translated">No. Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Return Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 1047125746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason</source>
+          <target state="translated">Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Return Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 2325595124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Operator</source>
+          <target state="translated">Operador Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Return Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 226218220 - Field 2620890693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred Quantity</source>
+          <target state="translated">Cantidad Transferida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Transferida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Posted Package Line - Field Transferred Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Setup</source>
+          <target state="translated">RMA Configuración</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 2491842459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjustments without Sales Returns</source>
+          <target state="translated">Regularización sin Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Regularización sin Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Adjustments Without Returns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 3028947450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN13 Unit</source>
+          <target state="translated">Unidad del EAN13</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidad del EAN13"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field EAN13 Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <target state="translated">Sección Diario Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Sección Diario Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <target state="translated">Libro Diario Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Libro Diario Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 4267907655 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Group</source>
+          <target state="translated">Grupo de Recurso</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo de Recurso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Resource Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 4005126147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Series</source>
+          <target state="translated">Serie Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Serie Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Return Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 189503216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Returns Warehouse</source>
+          <target state="translated">Almacén Devoluciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén Devoluciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Returns Warehouse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 502776338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scrap Adjust</source>
+          <target state="translated">Ajuste Chatarra</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Ajuste Chatarra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Scrap Adjust - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 3274206035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Quality A</source>
+          <target state="translated">Almacén Calidad A</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén Calidad A"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Warehouse Quality A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 892328590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Quality B</source>
+          <target state="translated">Almacén Calidad B</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén Calidad B"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Warehouse Quality B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 268937382 - Field 254631973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Quality C</source>
+          <target state="translated">Almacén Calidad C</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén Calidad C"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Setup - Field Warehouse Quality C - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Packages</source>
+          <target state="translated">Bultos a Existencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos a Existencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 3891454143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <target state="translated">Almacén</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">No. Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 3871272126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package transferred</source>
+          <target state="translated">Bulto Transferido</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Transferido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Package transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 1483341903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 2325595124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Operator</source>
+          <target state="translated">Operador Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operador Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Return Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1124602433 - Field 66664215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order</source>
+          <target state="translated">Pedido Tranferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Pedido Tranferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package - Field Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Package Lines</source>
+          <target state="translated">Lineas Bultos a Existencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Lineas Bultos a Existencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descripción</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 314785063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN of Unit</source>
+          <target state="translated">EAN Unidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN Unidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field EAN of Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">No. Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 1884256234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Line Transferred</source>
+          <target state="translated">Línea Bulto Transferida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Línea Bulto Transferida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Line transferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 1589543977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Package No.</source>
+          <target state="translated">Bulto Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Original Posted No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 77295680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Package Line</source>
+          <target state="translated">Linea Bulto Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Linea Bulto Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Original Posted Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 207700967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Package No.</source>
+          <target state="translated">Bulto Original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Original Posted Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 3199049368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Line</source>
+          <target state="translated">No. Linea</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Linea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Package Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 4240543679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package No.</source>
+          <target state="translated">No. Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Package No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4225129755 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Cantidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RMAs Stock Package Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2174198363 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality</source>
+          <target state="translated">Calidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method RecordJournalLines - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2174198363 - NamedType 3358107553" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCRAPS </source>
+          <target state="translated">DEVs BASURA </target>
+          <note from="Developer" annotates="general" priority="2">ESP="DEVs BASURA "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method RecordJournalLines - NamedType Text02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial number %1 does not exist</source>
+          <target state="translated">No existe el Númerador de Serie %1</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el Númerador de Serie %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The package status is not closed</source>
+          <target state="translated">El bulto no está cerrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="El bulto no está cerrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The package has already been registered</source>
+          <target state="translated">El bulto ya ha sido registrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="El bulto ya ha sido registrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 2960120088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product %1 with Quantity %2 has no assigned Quality</source>
+          <target state="translated">El Producto %1 con Cantidad %2, no tiene Calidad asignada</target>
+          <note from="Developer" annotates="general" priority="2">ESP="El Producto %1 con Cantidad %2, no tiene Calidad asignada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error04</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 2322423471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Sales Return %1 is not found</source>
+          <target state="translated">No existe la Devolución %1</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe la Devolución %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error05</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2890774490 - Method 2031180575 - NamedType 2022544900" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error occurred while recording the product journal.</source>
+          <target state="translated">Se ha producido un error al registrar en el diario de producto.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Se ha producido un error al registrar en el diario de producto."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Management - Method ReturnAdjustment - NamedType Error08</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3573720700 - Method 4231941531 - NamedType 291871325" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Invoiced ?</source>
+          <target state="translated">Facturar ?</target>
+          <note from="Developer" annotates="general" priority="2">ESP=Facturar ?</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Sales Return Events - Method OnBeforeConfirmSalesPost_ForceInvoice - NamedType PostConfirm01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3573720700 - Method 4231941531 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The posting process has been cancelled by the user</source>
+          <target state="translated">El proceso de registro ha sido cancelado por el usuario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="El proceso de registro ha sido cancelado por el usuario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RMAs Sales Return Events - Method OnBeforeConfirmSalesPost_ForceInvoice - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 2177759381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs API Returns Package Lines</source>
+          <target state="translated">RMA API Líneas Bultos Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA API Líneas Bultos Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs API Returns Package Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3480371375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Archived Package Card</source>
+          <target state="translated">Bulto Archivado Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Archivado Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Archived Package Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3480371375 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Archived Package Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1409675589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived Sales Return Package List</source>
+          <target state="translated">RMA Bultos Archivados Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Bultos Archivados Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Archived Package List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 543180501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Líneas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Archived Package Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 830414251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Category</source>
+          <target state="translated">RMA Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Auxiliary Table Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 830414251 - Control 1298310111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Category</source>
+          <target state="translated">Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Auxiliary Table Category - Control Auxiliary Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3710751223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Reason</source>
+          <target state="translated">RMA Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Auxiliary Table Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3710751223 - Control 1298310111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Reason</source>
+          <target state="translated">Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Auxiliary Table Reason - Control Auxiliary Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Card</source>
+          <target state="translated">Ficha Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP=Ficha Producto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 2890893975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Identifiers</source>
+          <target state="translated">Identificadores de Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Identificadores de Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control IdentifiersGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 3076206668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="translated"/>
+          <note from="Developer" annotates="general" priority="2">ESP=""</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control Identifiers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 2565062057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory</source>
+          <target state="translated">Inventario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Inventario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control InventoryGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 3276313895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <target state="translated">Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 307665326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units of Measure</source>
+          <target state="translated">Unidades de Medida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidades de Medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control UnitOfMeasureGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 3955711665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="translated"/>
+          <note from="Developer" annotates="general" priority="2">ESP=""</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control UnitOfMeasure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 231734384 - Control 1368373035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target state="translated">Imagen</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Imagen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control ItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 897044048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Comments</source>
+          <target state="translated">Comentarios del Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentarios del Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Comment Lines Faxbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 85075774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Identifiers Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 85075774 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">EAN</target>
+          <note from="Developer" annotates="general" priority="2">ESP="EAN"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Identifiers Subform - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 980462934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <target state="translated">Productos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Productos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 980462934 - Control 1976356074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <target state="translated">Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item List - Control Control1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 980462934 - Control 1368373035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <target state="translated">Imagen</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Imagen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item List - Control ItemPicture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activities</source>
+          <target state="translated">Actividades</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Actividades"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Control 818383777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Cr Memos</source>
+          <target state="translated">Abonos Pendientes</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Abonos Pendientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Control Pending Cr Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Control 2075267228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Packages</source>
+          <target state="translated">Bultos Registrados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Registrados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Control Posted Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Control 1899018205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Packages</source>
+          <target state="translated">Bultos Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Control Return Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Control 3061233890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Orders</source>
+          <target state="translated">Pedidos Transferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Pedidos Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Control Transfer Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1769204671 - Control 514915307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package to be Transferred</source>
+          <target state="translated">Bultos a Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos a Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Activities - Control Transferred Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1685449785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archives</source>
+          <target state="translated">Históricos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Históricos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Archives - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1685449785 - Control 3676905529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packages Archived</source>
+          <target state="translated">Bultos Archivados</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Archivados"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Archives - Control PackagesArchived - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1685449785 - Control 2986094203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Transferred</source>
+          <target state="translated">Bultos Transferidos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Transferidos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Archives - Control PackagesTransferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Manager</source>
+          <target state="translated">Gestión Devoluciones</target>
+          <note from="Developer" annotates="general" priority="2">ES="Gestión Devoluciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 2074231226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Package</source>
+          <target state="translated">Nuevo Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action New Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <target state="translated">Productos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Productos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 663109662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Orders</source>
+          <target state="translated">Devoluciones de Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devoluciones de Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action SalesReturn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target state="translated">Configuración</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 2615842592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Return Category</source>
+          <target state="translated">Categoria Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action RMAReturnCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 1770322964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Return Reason</source>
+          <target state="translated">Motivo Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action RMAReturnReason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 3377888626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Return Resource</source>
+          <target state="translated">Operarios Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operarios Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action RMAReturnResource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3483575755 - Action 2990180603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Setup</source>
+          <target state="translated">RMA Configuración</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Management Role Center - Action RMASetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Package Card</source>
+          <target state="translated">Bulto Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - NamedType 541792141" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are no outstanding quantities. Do you want to completely archived the package?</source>
+          <target state="translated">No existen cantidades pendientes. Desea archivar completamente el bulto?</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No existen cantidades pendientes. Desea archivar completamente el bulto?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - NamedType Confirm01</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not permitted to close packages with lines without a sales return number</source>
+          <target state="translated">No se permite cerrar bultos con lineas sin devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se permite cerrar bultos con lineas sin devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not permitted to posted packages with lines without a sales return number</source>
+          <target state="translated">No se permite registrar bultos con lineas sin devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se permite registrar bultos con lineas sin devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The regularization without refund must include the reason for the incident</source>
+          <target state="translated">La regularización sin devolución deberá incluir el motivo de la incidencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="La regularización sin devolución deberá incluir el motivo de la incidencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - NamedType 2960120088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not permitted to close packages with lines without quantity.</source>
+          <target state="translated">No se permite cerrar bultos con lineas sin cantidad.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se permite cerrar bultos con lineas sin cantidad."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - NamedType Error04</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - Action 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting</source>
+          <target state="translated">Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - Action Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - Action 2808404044 - Method 1377591017 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the package lines?</source>
+          <target state="translated">¿Quiere registrar las líneas del bulto?</target>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Quiere registrar las líneas del bulto?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - Action Posting - Method OnAction - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Page 1488993125 - Action 2808404044 - Method 1377591017 - NamedType 3358107553" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The package lines were successfully posted</source>
+          <target state="translated">Las líneas del bulto se registraron correctamente.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Las líneas del bulto se registraron correctamente."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Card - Action Posting - Method OnAction - NamedType Text02</note>
+        </trans-unit>
+        <trans-unit id="Page 775920025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Closed Package List</source>
+          <target state="translated">RMA Bultos Cerrados Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Bultos Cerrados Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Closed List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4103663885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Package Line List</source>
+          <target state="translated">RMA Líneas Bultos Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Líneas Bultos Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Line List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4103663885 - Action 1991451542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <target state="translated">Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Line List - Action DocReturn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4103663885 - Action 3820220526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package</source>
+          <target state="translated">Bulto Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Devol."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Line List - Action Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1774508403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Open Package List</source>
+          <target state="translated">RMA Bultos Abiertos Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Bultos Abiertos Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Open List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117941103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Líneas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117941103 - Method 1538433693 - NamedType 1779173459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EAN13 does not exist for product: %1 and unit of measure: %2</source>
+          <target state="translated">No existe el ENA13 para el producto: %1 y la unidad de medida: %2</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el ENA13 para el producto: %1 y la unidad de medida: %2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Subform - Method GetItem - NamedType ERROR01</note>
+        </trans-unit>
+        <trans-unit id="Page 1117941103 - Method 3848703020 - NamedType 1779173459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The product does not exist for EAN13: %1 and unit of measure: %2</source>
+          <target state="translated">No existe el producto para el EAN13: %1 y la unidad de medida: %2</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el producto para el EAN13: %1 y la unidad de medida: %2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Subform - Method GetItemIdentifier - NamedType ERROR01</note>
+        </trans-unit>
+        <trans-unit id="Page 1117941103 - Action 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <target state="translated">Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Package Subform - Action Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2938193406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Posted Package Card</source>
+          <target state="translated">Bulto registrado Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto registrado Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Posted Package Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2938193406 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Posted Package Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2863955960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Return Package List</source>
+          <target state="translated">RMA Bultos Registrados Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Registrados Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Posted Package List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4017955456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Líneas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Posted Package Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1728928453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return</source>
+          <target state="translated">Devolución Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Info Faxbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Product</source>
+          <target state="translated">Producto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Control 242032957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality A</source>
+          <target state="translated">Calidad A</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad A"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Control Item_A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Control 3899303636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality B</source>
+          <target state="translated">Calidad B</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad B"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Control Item_B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Control 3261607019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality C</source>
+          <target state="translated">Calidad C</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad C"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Control Item_C - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Control 1664136595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty in Package</source>
+          <target state="translated">Cantidad en Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad en Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Control QtyInPackage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3521312148 - Control 2737551424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty Return Orders</source>
+          <target state="translated">Cantidad en DVs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad en DVs"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Item Faxbox - Control QtyInReturnOrders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Resources</source>
+          <target state="translated">Operarios Devoluciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Operarios Devoluciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 411531942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the base unit used to measure the resource, such as hour, piece, or kilometer.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Base Unit of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the related record is blocked from being posted in transactions, for example a customer that is declared insolvent or an item that is placed in quarantine.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 2393253273 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the most recent change of information in the Resource Card window.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Last Date Modified - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the resource.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 966287263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies information in addition to the description.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Name 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 880902346 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to limit access to data for the data subject during daily operations. This is useful, for example, when protecting data from changes while it is under privacy review.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Privacy Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 3063762278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the resource group that this resource is assigned to.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Resource Group No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 411528779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies an alternate name that you can use to search for the record in question when you cannot remember the value in the Name field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Search Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 2449017157 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the approver of the time sheet.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Time Sheet Approver User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 3049875865 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the owner of the time sheet.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Time Sheet Owner User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the resource is a person or a machine.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Control 941859603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if a resource uses a time sheet to record time allocated to various tasks.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Control Use Time Sheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 954668148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Prices</source>
+          <target state="translated">Precios</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action &amp;Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3230232676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Prices</source>
+          <target state="translated">Precios Compra</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precios Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action PurchPriceLists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3730920496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Prices</source>
+          <target state="translated">Precios Venta</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precios Venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action SalesPriceLists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 133860824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Resource</source>
+          <target state="translated">Recurso</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Recurso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action &amp;Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3000180178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Co&amp;mments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <target state="translated">Comentarios</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 84074407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View statistical information, such as the value of posted entries, for the record.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Statistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="translated">Estadísticas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estadísticas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 1994514640 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the units of measure that are set up for the resource.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Units of Measure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 1994514640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units of Measure</source>
+          <target state="translated">Unidad de Medida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidad de Medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Units of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 1354768061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan&amp;ning</source>
+          <target state="translated">Planificación</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Planificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Plan&amp;ning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3384524015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource &amp;Allocated per Project</source>
+          <target state="translated">Recursos por Proyecto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Recursos por Proyecto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource &amp;Allocated per Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3043674532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource &amp;Capacity</source>
+          <target state="translated">Capacidad</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Capacidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource &amp;Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 4164470271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource A&amp;vailability</source>
+          <target state="translated">Disponibilidad de Recursos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Disponibilidad de Recursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource A&amp;vailability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target state="translated">Funciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Funciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3915231959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Time Sheets</source>
+          <target state="translated">Crear Parte de Trabajo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear Parte de Trabajo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action CreateTimeSheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navigate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 4.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 311693179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Category6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 949389796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Planning</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 6.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Category7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Category_Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 1765676931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource - Cost Breakdown</source>
+          <target state="translated">Desglose de Costes</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Desglose de Costes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource - Cost Breakdown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 4181500177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Statistics</source>
+          <target state="translated">Estadísticas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estadísticas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1149725675 - Action 3074756969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Usage</source>
+          <target state="translated">Uso del Recurso</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Uso del Recurso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource Card - Action Resource Usage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return Resources List</source>
+          <target state="translated">RMA Operarios Devoluciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Operarios Devoluciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 2402412411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Resource Group</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action New Resource Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 954668148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Prices</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action &amp;Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3230232676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Prices</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action PurchPriceLists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3730920496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Prices</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action SalesPriceLists - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 133860824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Resource</source>
+          <target state="translated">Recursos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Recursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action &amp;Resource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <target state="translated">Comentarios</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="translated">Estadísticas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estadísticas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 1994514640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units of Measure</source>
+          <target state="translated">Unidad de Medida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidad de Medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Units of Measure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 1354768061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan&amp;ning</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Plan&amp;ning - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3043674532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource &amp;Capacity</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource &amp;Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 4164470271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource A&amp;vailability</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource A&amp;vailability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target state="translated">Funciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Funciones</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 480981775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Time Sheets</source>
+          <target state="translated">Crear Parte de Trabajo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear Parte de Trabajo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Create Time Sheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Navigate</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 4.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 311693179 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_Category6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 278110413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 0.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 2234406979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Category_Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 2349293727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource - Price List</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Res. Price List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 1765676931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource - Cost Breakdown</source>
+          <target state="translated">Desglose de Costes</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Desglose de Costes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource - Cost Breakdown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3835932693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Register</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 4181500177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Statistics</source>
+          <target state="translated">Estadísticas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Estadísticas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4174052761 - Action 3074756969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Usage</source>
+          <target state="translated">Uso del Recurso</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Uso del Recurso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Return Resource List - Action Resource Usage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1989145207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return</source>
+          <target state="translated">Devoluciones Ventas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devoluciones Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Sales Return Lookup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 797470466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Setup</source>
+          <target state="translated">RMA Configuración</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 797470466 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 797470466 - Control 2898863074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Management</source>
+          <target state="translated">Gestión Almacén</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Gestión Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Setup Card - Control LocationManagement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Package Card</source>
+          <target state="translated">Bulto a Existencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto a Existencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality is a required field</source>
+          <target state="translated">La calidad es un campo obligatorio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="La calidad es un campo obligatorio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quality C is not permitted</source>
+          <target state="translated">La calidad C no está permitid</target>
+          <note from="Developer" annotates="general" priority="2">ESP="La calidad C no está permitida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - Action 943231149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Transfer</source>
+          <target state="translated">Generar Transferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Generar Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - Action transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - Action 943231149 - Method 1377591017 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create the transfer order?</source>
+          <target state="translated">¿Desea crear el pedido de transferencia?</target>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Desea crear el pedido de transferencia?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - Action transfer - Method OnAction - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Page 410696749 - Action 943231149 - Method 1377591017 - NamedType 3358107553" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer order has been created</source>
+          <target state="translated">Se ha creado el pedido de transferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Se ha creado el pedido de transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Card - Action transfer - Method OnAction - NamedType Text02</note>
+        </trans-unit>
+        <trans-unit id="Page 3239014263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Package List</source>
+          <target state="translated">RMA Bultos a Existencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Bultos a Existencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3919229369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Stock Package Selection</source>
+          <target state="translated">RMA Selección de Existencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA Selección de Existencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3919229369 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected quantity cannot be greater than the original quantity</source>
+          <target state="translated">La cantidad seleccionada no puede ser mayor que la original</target>
+          <note from="Developer" annotates="general" priority="2">ESP="La cantidad seleccionada no puede ser mayor que la original"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Selection - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 3919229369 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quantity cannot be negative.</source>
+          <target state="translated">La cantidad no puede ser negativa</target>
+          <note from="Developer" annotates="general" priority="2">ESP="La cantidad no puede ser negativa"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Selection - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Page 2808572855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Líneas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Stock Package Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2456063729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Matrix Lines</source>
+          <target state="translated">Líneas Matriz Transferencia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas Matriz Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Transfer Matrix List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1084588773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred Package Card</source>
+          <target state="translated">Bulto Transferido</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto Transferido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Transferred Package Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1084588773 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">General</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Transferred Package Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3642715631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred Package List</source>
+          <target state="translated">Bulto Transferidos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Trasferidos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Transferred Package List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1029884575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Líneas</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Transferred Package Subf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2399512293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units of Measure Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1226248500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Units Pending Credit Memo</source>
+          <target state="translated">Unidades Devueltas Pendientes de Abono</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidades Devueltas Pendientes de Abono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1226248500 - Action 1991451542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <target state="translated">Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Credit Memo - Action DocReturn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units Pending of Sales Return</source>
+          <target state="translated">Unidades Pendientes de Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidades Pendientes de Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 4004713366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discard</source>
+          <target state="translated">Descartar</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descartar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action Discard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 4004713366 - Method 1377591017 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you you want to discard the selected package?</source>
+          <target state="translated">¿Quiere descartar el bulto seleccionado?</target>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Quiere descartar el bulto seleccionado?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action Discard - Method OnAction - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 1991451542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <target state="translated">Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action DocReturn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting</source>
+          <target state="translated">Registro</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 2808404044 - Method 1377591017 - NamedType 2720410936" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the package lines?</source>
+          <target state="translated">¿Quiere registrar las líneas del bulto?</target>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Quiere registrar las líneas del bulto?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action Posting - Method OnAction - NamedType Text01</note>
+        </trans-unit>
+        <trans-unit id="Page 4150683162 - Action 2808404044 - Method 1377591017 - NamedType 3358107553" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The package lines were successfully posted</source>
+          <target state="translated">Las líneas del bulto se registraron correctamente.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Las líneas del bulto se registraron correctamente."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Returns - Action Posting - Method OnAction - NamedType Text02</note>
+        </trans-unit>
+        <trans-unit id="Page 1746110848 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units Pending to Transfer</source>
+          <target state="translated">Unidades Pendientes de Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidades Pendientes de Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Units Pending Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1729826745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs API units pending transfer</source>
+          <target state="translated">RMA API Unidades Pendientes de Transferir</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMA API Unidades Pendientes de Transferir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query RMAs API Unit Pending Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 97399356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Package Lines Query</source>
+          <target state="translated">RMAs Package Lines Query</target>
+          <note from="Developer" annotates="general" priority="2">ESP="RMAs Package Lines Query"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query RMAs Package Lines Query - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3832497067 - Action 762499963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
+          <source>Return Packages</source>
+          <target state="translated">Bultos Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RMAs Sales Return Order - Action Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4156630165 - Action 762499963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 942220850">
+          <source>Return Packages</source>
+          <target state="translated">Bultos Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RMAs Sales Return Order List - Action Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1619789967 - Action 762499963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3053760138">
+          <source>Return Packages</source>
+          <target state="translated">Bultos Devolución</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bultos Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RMAs Sales Return Subform - Action Packages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2890774490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMAs Management</source>
+          <target state="translated">Gestión Devoluciones</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Gestión Devoluciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RMAs Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2890774490 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Full functionality for RMAs management.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile RMAs Management - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 2317365711 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="translated"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Auxiliary Table States - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2317365711 - EnumValue 3702373668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category</source>
+          <target state="translated">Categoria</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Categoria"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Auxiliary Table States - EnumValue Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2317365711 - EnumValue 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <target state="translated">Motivo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Motivo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Auxiliary Table States - EnumValue Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3318606672 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Condition - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3318606672 - EnumValue 4137051400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <target state="translated">Nuevo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Condition - EnumValue New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3318606672 - EnumValue 3220827225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Used</source>
+          <target state="translated">Usado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Usado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Condition - EnumValue Used - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3390534934 - EnumValue 3939861283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A</source>
+          <target state="translated">A</target>
+          <note from="Developer" annotates="general" priority="2">ESP="A"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Quality - EnumValue A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3390534934 - EnumValue 1557983838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>B</source>
+          <target state="translated">B</target>
+          <note from="Developer" annotates="general" priority="2">ESP="B"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Quality - EnumValue B - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3390534934 - EnumValue 920287221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C</source>
+          <target state="translated">C</target>
+          <note from="Developer" annotates="general" priority="2">ESP="C"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Quality - EnumValue C - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2926063237 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <target state="translated">Cerrado</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cerrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2926063237 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target state="translated">Abierto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Abierto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1073065505 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <target state="translated"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Type - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1073065505 - EnumValue 419117521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Others</source>
+          <target state="translated">Otros</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Otros"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Type - EnumValue Others - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1073065505 - EnumValue 3820220526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package</source>
+          <target state="translated">Bulto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bulto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Type - EnumValue Package - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1073065505 - EnumValue 846458876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pallet</source>
+          <target state="translated">Palet</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Palet"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RMAs Package Type - EnumValue Pallet - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

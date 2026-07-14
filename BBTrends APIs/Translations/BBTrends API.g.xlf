@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BBTrends API">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 270787187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 270787187 - Control 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NoProducto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice - Control ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DocumentNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NumeroFactura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 308555774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeliveryNoteDate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="FechaAlbaran"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control FechaAlbaran - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 2547972622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShippingDate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="FechaEnvio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control FechaEnvio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 3764964393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PostingDate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="FechaFactura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control FechaFactura - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 2086933662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OrderDate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="FechaPedido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control FechaPedido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 1473226239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DeliveryNoteNumber</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NumeroAlbaran"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control NumeroAlbaran - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 3277041471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShippingNumber</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NumeroEnvio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control NumeroEnvio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3711681535 - Control 162765975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OrderNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NumeroPedido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page API Sales Invoice Information - Control NumeroPedido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2733270431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Apos Conditions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Apos Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2920587637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Cols Conditions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Cols Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3432193320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 342340855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Customer Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Customer Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 980119695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2648964015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3905532091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Category Parent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3194901615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Hist Values Margin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Hist Values Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 228282545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1443739470 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Inventory Warehouse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Inventory Warehouse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1256428882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Item Reference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Item Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 545274134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Posted Transfer Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Posted Transfer Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2644853720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Purchase Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Purchase Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2644853720 - QueryColumn 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NoProducto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Purchase Credit Memo - QueryColumn ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 37718254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Purchase Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Purchase Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 37718254 - QueryColumn 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NoProducto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Purchase Invoice - QueryColumn ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4277065501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Purchase Order Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Purchase Order Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2675733793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Credit Memo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2675733793 - QueryColumn 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2">ESP="NoProducto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Credit Memo - QueryColumn ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 437081405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Order Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 524659031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2935943352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Return Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Return Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2786921598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Return Order Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Return Order Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3386814653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Sales Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Sales Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3964141031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Salesperson</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Salesperson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3346494349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Service Zone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Service Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3638134301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Valued Delivery Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Valued Delivery Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4286543824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1081779535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Vendor Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Vendor Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 4282349690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Warehouse Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query API Warehouse Shipments - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

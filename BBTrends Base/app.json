@@ -1,0 +1,50 @@
+{
+  "id": "d4d8b943-deea-4de2-9e15-dbbf14b442ed",
+  "name": "BBTrends Base",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.22",
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [
+    {
+    "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+    "publisher": "Microsoft",
+    "name": "Shopify Connector",
+    "version": "27.0.0.0"
+    },
+    {
+    "id": "1627c646-a639-4a0c-82cb-75416b7b3f5b",
+    "publisher": "B&B Trends",
+    "name": "BBTrends SMG",
+    "version": "27.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 50000,
+      "to": 51999
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": 
+  [
+    "NoImplicitWith",
+    "TranslationFile" 
+  ]
+}

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BBTrends SCM">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3018741819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 985303892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3845185984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Item Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Item Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 756607092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Purchase Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Purchase Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2134245313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Requisition WorkSheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Requisition WorkSheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 531184460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM CrMemo Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Sales CrMemo Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 757931902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Invoice Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Sales Invoice Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2968656887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Order Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Sales Order Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3493012883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCM API Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2407178713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SCM Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query SCM API Inventory - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BBTrends SGA">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 402978803 - Field 2058890495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Blocked Documents - Field SGA Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 402978803 - Field 165885854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Blocked Documents - Field SGA Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 607884614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Corrected</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Corregido"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Corrected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 858533789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 3915695405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Description Error</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción del Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Description Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 2058890495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Document No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 165885854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Document Type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 2568214480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Error No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Error No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 2657250105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Item No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 831405693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Last Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ultima Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Last Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 581362760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Line No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Línea"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 1076526139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Posting Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Registro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 794972362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Quantity</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225761166 - Field 189906272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Serial No</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Serie"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Log Errors - Field SGA Serial No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Management Setup</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 3632770205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box unit</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidad de Caja"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Box Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 4143062365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Seccion Diario Ajustes Inventario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Inv Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 845904401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Libro Diario Ajustes Inventario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Inv Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Seccion Diario Ajustes Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Libro Diario Ajustes Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2853295902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Palet Unit</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidad de Palet"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Palet Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1272013704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Block Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Bloqueo Documentos Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Document Block Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 3769211388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Enabled</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 525690188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Item Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Producto Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Insert Item Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1280323147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Purchase Return Order Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Devolucion Compra Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Insert Pur Return Ord Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2189135553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Sales Return Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Devolucion Venta Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Insert SalesReturn Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 3213803396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Shipment Confirm Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Confirmacion Albaran Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Insert Shipm Confirm Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 358004252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Insert Transfer Order Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insert Pedido Transferencia Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Insert Transfer Order Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 4089639133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Mngmnt Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gestión Pedido Compra Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Purch Order Mngmnt Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2612872354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Recep. Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Recepción Pedido Compra Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Purchase Order Recep Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2596105344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Error Fields Stock Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Campos Error Stock Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Err Fields Stock Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2863176643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Error Fields Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Campos Error Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Error Fields Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2334366752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Expedition Shipment Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Entregas Expedidas Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Exped Shipment Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 4243555043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Location Entry Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Entrega Almacen Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Location Entry Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1595603973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Packing List Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Packing List Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Packing List Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2071701349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Purchase return Order Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Devolucion Compra Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Pur Return Order Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1430059874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Recep Sales Return Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Recepcion Devolucion Venta Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Recp SalesReturn Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1185936094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Shipment Confirm Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Confirmacion Albaran Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Shipment Confirm Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 1681632663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Stock Adjust Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Ajustes Stock Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Stock Adjust Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 971854183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Transfer Order Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer pedido Transferencia Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Read Transfer Order Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 597496783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Document Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Documento Envio Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Shipment Document Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 119221344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Shipment Sales Order Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Albaran Pedido Venta Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Shipment Sales Order Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 3989066552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Document Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Documento Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Update Document Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 74174649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Expedition Shipment Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Entregas Expedidas Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Update Exped shipment Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3279038006 - Field 2390471666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Stock Adjust Endpoint</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Ajustes Stock Endpoint"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Setup - Field SGA Update Stock Adjust Endp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2574435401 - Field 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Temporal SQL - Field Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2574435401 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Temporal SQL - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2574435401 - Field 423150633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Documento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Temporal SQL - Field No. Documento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2574435401 - Field 2883740582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tipo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Temporal SQL - Field Tipo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Warehouse Line Comment</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Comentarios Almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Codigo Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Commentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Line No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Número Línea Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Linea Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 432117223 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Comentario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SGA Warehouse Line Comment - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3367502646 - NamedType 1752401443" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect Parameter</source>
+          <note from="Developer" annotates="general" priority="2">Parametro Incorrecto</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Data Received - NamedType ErrorParameter</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 4089462097 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>It is not possible to receive or send a SGA warehouse document.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No se puede recibir ni enviar un documento de almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnAfterConfirmPost - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 2512249353 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot receive or send a document from the WMS warehouse.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No se puede recibir ni enviar un documento de almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnAfterConfirmPostSales - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 2665407276 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot register shipments with a SGA warehouse</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No se pueden registrar envios con almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeActionEventPostandPrint - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 1132650488 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are lines with SGA warehouse</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Existen líneas con almacén SGA."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeActionEventPostAndPrintItemJournal - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3522551767 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are lines with SGA warehouse</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Existen líneas con almacén SGA."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeActionEventPostAndPrintLocation - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 1294270602 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are lines with SGA warehouse</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Existen líneas con almacén SGA."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeActionEventPostItemJournal - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 187227542 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot register shipments with a SGA warehouse</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No se pueden registrar envios con almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeActionEventPostShipment - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 2565572837 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse %1 is required for %2 = %3</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén %1 es requerido para %2 = %3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeCheckWarehouse - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 2402717398 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse %1 cannot be used because it is part of the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El almacén %1 no se puede usar por ser de SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeValidateEvent - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 372505422 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse %1 cannot be used because it is part of the SGA.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El almacén %1 no se puede usar por ser de SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeValidateEventLocationCode - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 525290026 - NamedType 1779173459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The two warehouses cannot be of type SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Los dos almacenes no pueden ser de SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeValidateTransferFromCode - NamedType ERROR01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3605756917 - NamedType 1779173459" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The two warehouses cannot be of type SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Los dos almacenes no pueden ser de SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnBeforeValidateTransferToCode - NamedType ERROR01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The transfer request has not been released</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El pedido de transferencia no está lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The transfer order contains product %1 without SGA management</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El pedido de transferencia contiene producto %1 sin gestión SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No warehouse has SGA management</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ningún almacén tiene gestión SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 2960120088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer order pending confirmation by the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Pedido de transferencia pendiente de confirmar envío por el SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Error04</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 2322423471" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The material receipt must be processed by the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="La recepción del material se debe de realizar por el SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Error05</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 849239102 - Method 3140478419 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Ship,&amp;Receive</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enviar,Recibir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Events - Method OnCodeOnBeforePostTransferOrder - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - NamedType 535130827" size-unit="char" translate="yes" xml:space="preserve">
+          <source>'</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - NamedType Comilla</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - NamedType 2862508279" size-unit="char" translate="yes" xml:space="preserve">
+          <source>'Lote: %1  / Ctd.: %2'</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - NamedType LineaLote</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 219650737 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect registration date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha registro incorrecta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AjustesStock - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 219650737 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jump</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Saltar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AjustesStock - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 219650737 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Does not exist as a item </source>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el producto "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AjustesStock - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 195452387 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AlbDevCompraDocEnvio - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 195452387 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quantity to send is greater than the quantity</source>
+          <note from="Developer" annotates="general" priority="2">ESP="La cantidad a enviar es mayor que la cantidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AlbDevCompraDocEnvio - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 3412886992 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El Envio NO Existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AlbVentaDocEnvio - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 3412886992 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quantity to be sent is greater than the outstanding quantity.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="La cantidad a enviar es mayor que la cantidad pendiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method AlbVentaDocEnvio - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 4135663185 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines sent to the SGA pending processing</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas enviadas al SGA pendientes de proceso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method BorradoEnvios - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 4135663185 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment has been scheduled</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio esta lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method BorradoEnvios - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 4161661816 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines sent to the SGA pending processing</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Líneas enviadas al SGA pendientes de proceso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method BorradoPedTrans - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 3706463330 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment has been submitted.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio esta lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method DevCompraDocEnvio - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 3706463330 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment must be submitted.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio debe de estar lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method DevCompraDocEnvio - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 953965626 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha incorrecta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method EntregasExpedidas - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 953965626 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Does not exist the delivery note with delivery number </source>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el albarán con número de entrega "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method EntregasExpedidas - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 755521138 - NamedType 221805532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execution completed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Envio Completado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method EnvioSGA - NamedType MSG01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 296623169 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is a line item without a warehouse.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Exite una línea sin almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method GestionDevolucionVenta - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 296623169 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse %1 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El almacén %1 no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method GestionDevolucionVenta - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 296623169 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse %1 does not allow returns in the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="EL almacén %1 no permite devoluciones en SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method GestionDevolucionVenta - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 2093895136 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The receiving warehouse must be of type Quality for product %1 on line number %2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El almacen de recepción debe ser del tipo Calidad para el producto %1 en el nº linea %2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method GestionPedidoCompra - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 2093895136 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nothing to send to the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nada para enviar al SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method GestionPedidoCompra - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 1151734243 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="La línea no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method PedidoTransferencia&lt;--SGA - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 1151734243 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer order does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El pedido de transferencia no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method PedidoTransferencia&lt;--SGA - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 617708966 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment has been submitted.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio esta lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method PedVentaDocEnvio - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 617708966 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment must be submitted.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio debe de estar lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method PedVentaDocEnvio - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 617708966 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Shipping Address Type is incorrect.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El Tipo de Dirección de Envío es incorrecto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method PedVentaDocEnvio - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 1872570375 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No sales return exists</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe la devolución de ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepDevVentas - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 1872570375 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Línea no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepDevVentas - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 1872570375 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outstanding quantity less than quantity to be received</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad pendiente menor que cantidad a recibir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepDevVentas - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 237896774 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The purchase order does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe el pedido de compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepPedCompra - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 237896774 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The line does not exist</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Línea no existe"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepPedCompra - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4022816501 - Method 237896774 - NamedType 1853635877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outstanding quantity is less than the quantity to be received</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad pendiente menor que cantidad a recibir</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method RecepPedCompra - NamedType Error03</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3283541514 - Method 809014890 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insufficient product stock %1 in warehouse %2. Quantity to ship %3, quantity in stock %4</source>
+          <note from="Developer" annotates="general" priority="2">Existencia infuficiente del producto %1 en almacén %2. Cantidad a enviar %3, cantidad disponible %4</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Management - Method CheckStockShipment - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3283541514 - Method 1774628551 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insufficient stock of product %1 in warehouse %2. Quantity to be shipped %3, quantity available %4</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Existencia infuficiente del producto %1 en almacén %2. Cantidad a enviar %3, cantidad disponible %4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Management - Method CheckStockTransfer - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Page 1701833053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA List Blocked Documents</source>
+          <note from="Developer" annotates="general" priority="2">SGA Lista de Bloqueos</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA List Blocked Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Management System Setup</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración Sistema Gestión Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Control 4126130292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Control Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Control 496718505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Adjustment Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario Ajuste Inventario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Control Diario Ajuste Inventario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Control 287569625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjustment Journal</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Diario Ajustes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Control Diario Ajustes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Control 2864861839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Units of Measure</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Unidades de Medida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Control Units - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3331584242 - Control 521426964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EndPoints</source>
+          <note from="Developer" annotates="general" priority="2">ESP="EndPoints"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Setup Card - Control EndPoints - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 432117223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Warehouse Line Comment</source>
+          <note from="Developer" annotates="general" priority="2">Linea Comentarios Almacén</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SGA Warehouse Line Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3913572544 - Control 2441065278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Item Card - Control SGATab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3979935784 - Control 2441065278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Location Card - Control SGATab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571842990 - Control 3769211388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105083977">
+          <source>SGA Enabled</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Location List - Control SGA Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571842990 - Control 1356071295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 105083977">
+          <source>SGA Warehouse Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Código Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Location List - Control SGA Warehouse Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 469264580 - Action 1735549075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Send SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enviar SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Purchase Order - Action Send SGA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 469264580 - Action 1735549075 - Method 1377591017 - NamedType 2749750089" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 469264580">
+          <source>Changing the status may cause inconsistencies with the SGA. Should we continue?</source>
+          <note from="Developer" annotates="general" priority="2">LA MODIFICACION DEL ESTATUS, PUEDE PROVOCAR PROBLEMAS DE INCONSISTENCIA CON EL SGA. CONTINUAR?</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Purchase Order - Action Send SGA - Method OnAction - NamedType SGAWarning</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1694979835 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1694979835">
+          <source>Return sent to the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución enviada a SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Sales Return Order - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1694979835 - Action 2690258502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1598289728">
+          <source>Send to SGA</source>
+          <note from="Developer" annotates="general" priority="2">Enviar SGA</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Sales Return Order - Action SendToSGA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3422560181 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3422560181">
+          <source>Return sent to the SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución enviada a SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Sales Return Order Subform - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 124445412 - Method 3388793719 - NamedType 3196384397" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 124445412">
+          <source>The document is locked by the SGA. Do you wish to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El documento se encuentra bloqueado por el SGA.¿Desea continuar?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Transfer Order - Method OnDeleteRecord - NamedType CONFIRM01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 124445412 - Method 3388793719 - NamedType 1779173459" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 124445412">
+          <source>Document not deleted</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Documento no borrado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Transfer Order - Method OnDeleteRecord - NamedType ERROR01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3615619630 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3615619630">
+          <source>Transfer Order sent to SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Pedido de Transferencia enviado al SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Transfer Order Subform - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Method 3388793719 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4105116980">
+          <source>The document is locked by the WMS. IT CANNOT BE DELETED</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El documento se encuentra bloqueado por el SGA. NO SE PUEDE ELIMINAR"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Method OnDeleteRecord - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Method 4177352842 - NamedType 541792141" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4105116980">
+          <source>The shipment has been modified and must be sent to the WMS, but it has not been submitted and will not be sent\ Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio esta modificado y se debe mandar a SGA pero no esta lanzado y no se enviara.\ ¿Desea continuar?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Method OnQueryClosePage - NamedType Confirm01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Method 4177352842 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4105116980">
+          <source>Please resubmit the shipment before leaving.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Vuelva a lanzar el envio antes de salir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Method OnQueryClosePage - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Action 2274884283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2938519335">
+          <source>Sent to SGA</source>
+          <note from="Developer" annotates="general" priority="2">Enviar SGA</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Action SGASent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Action 2274884283 - Method 1377591017 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4105116980">
+          <source>Shipment already Sent in SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Envio ya informado al SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Action SGASent - Method OnAction - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Action 2274884283 - Method 1377591017 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4105116980">
+          <source>Shipment Not Released</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio no esta lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Action SGASent - Method OnAction - NamedType Error02</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2058068038 - Control 233059804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1558066289">
+          <source>Destination Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Destino"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment List - Control SGADestinantionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2058068038 - Control 3892528527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1558066289">
+          <source>Source External Document</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Documento Externo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment List - Control SGASourceExternalDoc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1711838622 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1711838622">
+          <source>Sent to SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enviado a SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment Subform - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1126345857 - Field 2737608188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4162495838">
+          <source>SGA Date Registration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Registro SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Inventory Buffer - Field SGA Date Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1126345857 - Field 3488277390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4162495838">
+          <source>SGA Delivery Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Entrega Almacén SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Inventory Buffer - Field SGA Delivery Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3957122740 - Field 2946786070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>SGA Batch Management</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gestión Lote Activada"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Item - Field SGA Batch Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3957122740 - Field 3384678244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>SGA Forced Batch Purchases</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Compra Obligatoria en Lote"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Item - Field SGA Forced Batch Purchases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3957122740 - Field 1473437252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>SGA Forced Batch Sales</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Venta Obligatoria en Lote"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Item - Field SGA Forced Batch Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3957122740 - Field 3549320013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>SGA Enabled</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Item - Field SGA Item Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3957122740 - Field 3268765943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>SGA Requires Modification</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificar en SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Item - Field SGA Requires Modification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 525799068 - Field 338330658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>SGA Allows Returns</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Permite Devolución"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Location - Field SGA Allows returns - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 525799068 - Field 3769211388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>SGA Enabled</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Location - Field SGA Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 525799068 - Field 1281712293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>SGA Fictitious Movement</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mov. Ficticio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Location - Field SGA Fictitious Movement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 525799068 - Field 1161795076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>SGA Quality</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Calidad"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Location - Field SGA Quality - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 525799068 - Field 1356071295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>SGA Warehouse Code</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Código Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Location - Field SGA Warehouse Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 94267588 - Field 325644849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2260220107">
+          <source>Warehouse Delivery Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Entrega Almacen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Posted Whse Ship Header - Field SGA Warehouse Delivery Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1309087195 - Field 1227705157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SGA Inserted</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grabado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Purchase Header - Field SGA Inserted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1309087195 - Field 482255888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SGA Modified</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Purchase Header - Field SGA Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1309087195 - Field 2507297970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SGA Readed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leido SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Purchase Header - Field SGA Readed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1309087195 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Purchase Header - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2191897556 - Field 482255888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>SGA Modified</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Purchase Line - Field SGA Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4007032518 - Field 1227705157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>SGA Inserted</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grabado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Header - Field SGA Inserted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4007032518 - Field 482255888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>SGA Modified</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Header - Field SGA Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4007032518 - Field 2507297970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>SGA Readed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leido SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Header - Field SGA Readed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4007032518 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Header - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098536414 - Field 894391460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>SGA Expedition Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Expedicion SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Shipment Header - Field SGA Expedition Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098536414 - Field 671585167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>SGA Warehouse Delivery Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Entrega Almacen SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Shipment Header - Field SGA Warehouse Delivery No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2451441285 - Field 894391460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>SGA Expedition Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Expedicion SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Sales Shipment Line - Field SGA Expedition Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 604429499 - Field 1227705157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 151805736">
+          <source>SGA Inserted</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grabado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Transfer Header - Field SGA Inserted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 604429499 - Field 482255888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 151805736">
+          <source>SGA Modified</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Transfer Header - Field SGA Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 604429499 - Field 2507297970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 151805736">
+          <source>SGA Readed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leido SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Transfer Header - Field SGA Readed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 604429499 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 151805736">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Transfer Header - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4139926196 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 558353423">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Transfer Line - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 3162519738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Destination No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Destino</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Destination No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 3071924507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Destination Type</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Destino</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Destination Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 1227705157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Inserted</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grabado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Inserted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 482255888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Modified</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Modificado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Modified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 2507297970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Readed</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leido SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Readed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 930956905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Source No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Origen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estado SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2525776649 - Field 325644849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3880947038">
+          <source>Warehouse Delivery Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Entrega Almacen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Header - Field SGA Warehouse Delivery Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3301833346 - Field 794972362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3659122181">
+          <source>SGA Quantity</source>
+          <note from="Developer" annotates="general" priority="2">ESp="Cantidad SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Line - Field SGA Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3301833346 - Field 2380735494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3659122181">
+          <source>SGA Quantity (Base)</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad Base SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Line - Field SGA Quantity (Base) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3301833346 - Field 1266618627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3659122181">
+          <source>SGA Status</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Status SGA</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Line - Field SGA Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3301833346 - Field 325644849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3659122181">
+          <source>SGA Warehouse Delivery Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Número Entrega Almacén"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SGA Warehouse Shipment Line - Field SGA Warehouse Delivery Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 1858082578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Blocking</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Bloqueo Documentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Document Blocking - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 4221710240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Delivery Note Confirmation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Confirmacion Albaran"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Insert Delivery Note Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 286613968 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Product</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Insert Product - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3302050082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Purchase Return</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Devolucion Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Insert Purchase Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 430678647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Sales Return</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Devolucion Venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Insert Sales Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3653977270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Insertar Pedido Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Insert Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 1289984074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Management</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Gestion Pedido Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Purchase Order Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3260679971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Receipt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Recepcion Pedido Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Purchase Order Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 4127219883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Delivery Note Confirmation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Confirmacion Albaran"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Delivery Note Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 4209048779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Dispatched Deliveries</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Entregas Expedidas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Dispatched Deliveries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 561065285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Error Fields</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Campos Error"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Error Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 228457715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Packing List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Packing List"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Packing List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 4038109205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Purchase Return</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Devolucion Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Purchase Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 249187208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Sales Return Receipt</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Recepcion Devolucion Venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Sales Return Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 2801323802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Stock Adjustments</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Ajustes Stock"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Stock Adjustments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 522072525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Stock Error Fields</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Campos Error Stock"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Stock Error Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3611818865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Stock Inventory Reconciliation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Cuadre Inventario Stock"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Stock Inventory Reconciliation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 1376353401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Pedido Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 2267841453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Warehouse Delivery</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Leer Entrega Almacen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Read Warehouse Delivery - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3250423822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order Delivery Note</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Albaran Pedido Venta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Sales Order Delivery Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3626852055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Document</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Documento Envio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Shipping Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 1282942290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Document</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Documento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Update Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 2193510940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Shipped Deliveries</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Entregas Expedidas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Update Shipped Deliveries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1719755339 - EnumValue 3774397135 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Stock Adjustments</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Actualizar Ajustes Stock"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Call to Procedure - EnumValue Update Stock Adjustments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 165885854 - EnumValue 395510365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Compras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Document Type - EnumValue Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 165885854 - EnumValue 3372849187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Return</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución Compras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Document Type - EnumValue Purchase Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 165885854 - EnumValue 1406942772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Document Type - EnumValue Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 165885854 - EnumValue 2856816662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Return</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Devolución Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Document Type - EnumValue Sales Return - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 165885854 - EnumValue 4224198349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Transferencia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Document Type - EnumValue Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1266618627 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2">ESP=" "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Status - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1266618627 - EnumValue 369047105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Locked</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Bloqueado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Status - EnumValue SGA Locked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1266618627 - EnumValue 546238747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SGA Sent</source>
+          <note from="Developer" annotates="general" priority="2">ESP="SGA Enviado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Status - EnumValue SGA Sent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1956325613 - EnumValue 1084347373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receive</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Recibir"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Warehouse Type Comment - EnumValue Receive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1956325613 - EnumValue 4180147670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enviar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SGA Warehouse Type Comment - EnumValue Ship - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

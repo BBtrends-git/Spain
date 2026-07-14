@@ -1,0 +1,1605 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BBTrends SMG">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1515932704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOS Conditions</source>
+          <target state="translated">Condizioni APOS</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 181372895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% APOS Excluded from Invoice</source>
+          <target state="translated">% Sconto Sulla Fattura APOS</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% APOS Fuera Factura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field % APOS Excluded from Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 3011597373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand</source>
+          <target state="translated">Marca</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Marca"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 30849399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition Classification</source>
+          <target state="translated">Classificazione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Condition Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 2561924922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Condition Code</source>
+          <target state="translated">Codice Classificazione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Código Clasificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Condition Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descrizione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target state="translated">Data di Fine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 3009936590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Number</source>
+          <target state="translated">Numero Registrazione</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Registration Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1515932704 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target state="translated">Data di Inizio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG APOS Conditions - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COLS Conditions</source>
+          <target state="translated">Condizioni COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Field 2060371701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% COLS Excluded from Invoice</source>
+          <target state="translated">% COLS Sulla Fattura</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% COLS Fuera Factura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Field % COLS Excluded from Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target state="translated">No. Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target state="translated">Data di Fine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Field 3009936590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Number</source>
+          <target state="translated">Numero Registrazione</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Field Registration Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3256203974 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target state="translated">Data di Inizio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG COLS Conditions - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Classification</source>
+          <target state="translated">Classificazione Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Codice</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Código"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Descrizione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Field 4186277299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exclude Margin Calculation</source>
+          <target state="translated">Esclude Calcolo del Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Excluye Cálculo Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Field Exclude Margin Calculation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Field 3328137719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Margin %</source>
+          <target state="translated">% Margine Minimo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Mínimo de Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Field Minimum Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 291619661 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="translated">Tipo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Customer Classification - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Historical Values for Margin</source>
+          <target state="translated">Valori Storici del Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Valores Históricos del Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 1189669097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Amount</source>
+          <target state="translated">Importo Costo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Coste"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Cost Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target state="translated">Data di Fine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Final"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">No. Articolo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No. Producto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 3009936590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Number</source>
+          <target state="translated">Numero Registrazione</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Registration Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target state="translated">Data di Inizio</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha Inicial"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1087500373 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="translated">Tipo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Historical Values Margin - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconto Sulle Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos de Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Method 2249577427 - NamedType 1798764075" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Amount</source>
+          <target state="translated">Importo %1</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe %1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Method GetDiscountAmountCaption - NamedType TextAmount</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 3100153330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply to</source>
+          <target state="translated">Opzione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Opción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Apply to - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 3190872472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="translated">Codice</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Código"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. 1 %</source>
+          <target state="translated">Sconto 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. 2 %</source>
+          <target state="translated">Sconto 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. 3 %</source>
+          <target state="translated">Sconto 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. 4 %</source>
+          <target state="translated">Sconto 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2000596569 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. 5 %</source>
+          <target state="translated">Sconto 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Sales Discounts - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin Management Setup</source>
+          <target state="translated">Configurazione Gestione del Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración Gestión de Margenes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 4223880412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOs Conditions Enabled</source>
+          <target state="translated">Condizioni APOs Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOs Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field APOs Conditions Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 819433882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COLs Conditions Enabled</source>
+          <target state="translated">Condizioni COLs Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones COLs Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field COLs Conditions Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 254375105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type Count</source>
+          <target state="translated">Numero Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Tipo de Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Customer Type Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 2046721854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type Discount</source>
+          <target state="translated">Sconto Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dto. Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Customer Type Disc. Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 362590675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type Enabled</source>
+          <target state="translated">Tipo Cliente Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Cliente Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Customer Type Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1318978422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 1 Caption</source>
+          <target state="translated">Nome Sconto 1</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Descuento 1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 1 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3009732891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 1 Enabled</source>
+          <target state="translated">Sconto 1 Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuento 1 Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 1 Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1592102699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 2 Caption</source>
+          <target state="translated">Nome Sconto 2</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Descuento 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 2 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3469608438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 2 Enabled</source>
+          <target state="translated">Sconto 2 Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuento 2 Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 2 Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3281283940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 3 Caption</source>
+          <target state="translated">Nome Sconto 3</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Descuento 3"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 3 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3880840557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 3 Enabled</source>
+          <target state="translated">Sconto 3 Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuento 3 Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 3 Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 4137317721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 4 Caption</source>
+          <target state="translated">Nome Sconto 4</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Descuento 4"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 4 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3340160448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 4 Enabled</source>
+          <target state="translated">Sconto 4 Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuento 4 Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 4 Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3852854994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 5 Caption</source>
+          <target state="translated">Nome Sconto 5</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Descuento 5"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 5 Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3525886455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount 5 Enabled</source>
+          <target state="translated">Sconto 5 Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuento 5 Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Discount 5 Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3328137719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Margin %</source>
+          <target state="translated">% Margine Minimo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Mínimo de Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Minimum Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1635294166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group Count</source>
+          <target state="translated">Numero di Gruppi Nazionali</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Grupos Nacionales"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field National Group Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1466286617 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group Discount</source>
+          <target state="translated">Sconto Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dto. Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field National Group Disc. Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 2757279488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group Enabled</source>
+          <target state="translated">Gruppo Nazionale Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field National Group Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 819038210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Unit Price Rounding Precision</source>
+          <target state="translated">Arrotondamento Prezzo Netto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Redondeo Precio Neto Unitario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Net Price Rounding Precision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 819038210 - Method 2126772001 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inconsistent Precision</source>
+          <target state="translated">Precisione di Arrotondamento Incoerente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precisión de Redondeo Inconsistente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Net Price Rounding Precision - Method OnValidate - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 913553705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform APOs Enabled</source>
+          <target state="translated">Piattaforma APOs Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="APOs Plataforma Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Platform APOs Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 2184579384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform Count</source>
+          <target state="translated">Numero di Piattaforme</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Plataformas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Platform Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3875647427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform Discount</source>
+          <target state="translated">Sconto Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dto. Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Platform Disc. Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3877660014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform Enabled</source>
+          <target state="translated">Piattaforma Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Platform Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Chiave Primaria</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3170802469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purch. Group Discount</source>
+          <target state="translated">Sconto Gruppo Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dto. Grupo Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Purch. Group Disc. Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 1130442513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Group Count</source>
+          <target state="translated">Numero di Gruppo Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Numero de Grupos de Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Purchase Group Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 3070313635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Group Enabled</source>
+          <target state="translated">Grupo Acquisto Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Compra Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field Purchase Group Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1816156330 - Field 968796944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SMG Enabled</source>
+          <target state="translated">SMG Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="SMG Activado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SMG Setup - Field SMG Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 354571462 - Method 751787636 - NamedType 2285649617" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot be deleted. There are clients with this code</source>
+          <target state="translated">Non può essere eliminato. Sono presenti clienti con questo codice.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No se puede borrar. Existen clientes con este código"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SMG Management - Method RecordClassificationExist - NamedType Label01</note>
+        </trans-unit>
+        <trans-unit id="Page 449112014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOS Customer List</source>
+          <target state="translated">Condizioni APOs Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG APOS Customer Cond. List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768387499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOS Platform List</source>
+          <target state="translated">Condizioni APOs Piattaforme</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS Plataformas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG APOS Platform Cond. List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2402536196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COLS Conditions List</source>
+          <target state="translated">Condizioni COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG COLS Conditions List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1858035329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type</source>
+          <target state="translated">Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo de Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Customer Type List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1858035329 - Control 3063469888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discounts</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Customer Type List - Control WithDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1858035329 - Action 2417585046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type Discounts</source>
+          <target state="translated">Sconti Tipo Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos. Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Customer Type List - Action CustomerTypeDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 277555991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History Standard Cost List</source>
+          <target state="translated">Storico Costi Standard</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Histórico Coste Estandar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Hist Standard Cost List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 259629156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SMG Hist Transport Ecomm Cost List</source>
+          <target state="translated">Storico Costi Trasporto E-commerce</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Hist Coste Transporte Ecomm"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Hist Transp Ecom Cost List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2574092214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group</source>
+          <target state="translated">Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG National Group List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2574092214 - Control 3063469888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discounts</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG National Group List - Control WithDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2574092214 - Action 3991324249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group Discounts</source>
+          <target state="translated">Sconti Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos. Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG National Group List - Action NationalGroupDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1972846984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Platform List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1972846984 - Control 3590871401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOS</source>
+          <target state="translated">APOs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Platform List - Control WithAPOS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1972846984 - Control 3063469888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discounts</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Platform List - Control WithDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1972846984 - Action 960832033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOS Conditions</source>
+          <target state="translated">Condizioni Apos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Platform List - Action PlatformConditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1972846984 - Action 3020328379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform Discounts</source>
+          <target state="translated">Sconti Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos. Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Platform List - Action PlatformDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 442182414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchasing Group</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo de Compras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Purchasing Group List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 442182414 - Control 3063469888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discounts</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Purchasing Group List - Control WithDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 442182414 - Action 266069793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchasing Group Discounts</source>
+          <target state="translated">Sconti Gruppo Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Dtos. Grupo Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Purchasing Group List - Action PurchasingGroupDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000596569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconti Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos de Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Sales Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin Management Setup</source>
+          <target state="translated">Configurazione Gestione Margini</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración Gestión de Margenes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 3003644414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Customer Classification</source>
+          <target state="translated">Classificazione Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación de Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control ActiveDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 3932032622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type Count</source>
+          <target state="translated">Tipi di Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipos de Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control TextCountCustomerType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 3396860681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group Count</source>
+          <target state="translated">Gruppi Nazionali</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupos Nacionales"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control TextCountNationalGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 1942546987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform Count</source>
+          <target state="translated">Piattaforme</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataformas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control TextCountPlatform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 812225879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Group Count</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupos de Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control TextCountPurchaseProup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 4126130292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration</source>
+          <target state="translated">Configurazione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 633568778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direct Discounts</source>
+          <target state="translated">Sconti Diretti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Directos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Generale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 61007498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Classification</source>
+          <target state="translated">Classificazione Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 2076807096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type</source>
+          <target state="translated">Tipo Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action CustomerType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 2517561195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group</source>
+          <target state="translated">Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action NationalGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 844698329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 1114534128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Group</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo de Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action PurchaseGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 2689876268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conditions</source>
+          <target state="translated">Condizioni F.F.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones F.F."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 4281474747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOs Customer Conditions</source>
+          <target state="translated">Condizioni APOs Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action APOsCustomerConditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 3224355734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>APOs Platform Conditions</source>
+          <target state="translated">Condizioni APOs Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOs Plataformas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action APOsPlatformConditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 3931841237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Classification</source>
+          <target state="translated">Classificazione Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación Clientes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action Classification_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3859695598 - Action 468614047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Conditions</source>
+          <target state="translated">Condizioni F.F.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones F.F."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SMG Setup Card - Action Conditions_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 2689876268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Conditions</source>
+          <target state="translated">Codizioni</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 208647591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>APOS Conditions</source>
+          <target state="translated">Condizioni APOs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action APOS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 3959827501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>COLS Conditions</source>
+          <target state="translated">Condizioni COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action COLS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 3333740602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconti Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action SalesDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 3562667598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Discounts</source>
+          <target state="translated">Sconti Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP=Dtos. Cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action CustomerDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 468614047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Conditions</source>
+          <target state="translated">Condizioni</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action Conditions_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Action 1563289669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconti Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Action SalesDiscounts_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 61007498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Classification</source>
+          <target state="translated">Classificazione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Clasificación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 2660812703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Discount Count Customer Type</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control TextCountDtoCustomerType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 1642410284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Discount Count National Group</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control TextCountDtoNationalGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 2735122898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Discount Count platform</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control TextCountDtoPlatform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 1928374383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Discount Count Purchase Group</source>
+          <target state="translated">Sconti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control TextCountDtoPurchaseGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 3976192163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Margin Setup</source>
+          <target state="translated">Margini</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Margenes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control SMG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 1800844764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Margin Off-Invoice</source>
+          <target state="translated">Condizioni F.F.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones F.F."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control SMG_OI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 3727268839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>% Off-Invoice APOS</source>
+          <target state="translated">% F.F. APOS</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% F.F. APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control PercentageAPOS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 3146779820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>% Off-Invoice COLS</source>
+          <target state="translated">% F.F. COLS</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% F.F. COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control PercentageCOL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3949451531 - Control 650109529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Remaining Conditions</source>
+          <target state="translated">Altre Condizioni</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Resto Condiciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer Card - Control SMG_RC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 2689876268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Conditions</source>
+          <target state="translated">Condizioni</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 208647591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>APOS Conditions</source>
+          <target state="translated">Condizioni APOs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action APOS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 3959827501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>COLS Conditions</source>
+          <target state="translated">Condizioni COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action COLS Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 3333740602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconti Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action SalesDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 3562667598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Customer Discounts</source>
+          <target state="translated">Sconti Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP=Dtos. Cliente</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action CustomerDiscounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 468614047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Conditions</source>
+          <target state="translated">Condizioni</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Condiciones"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action Conditions_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2678811321 - Action 1563289669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Sales Discounts</source>
+          <target state="translated">Sconti Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Customer List - Action SalesDiscounts_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Action 2234262713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Historical Cost</source>
+          <target state="translated">Costi Storici</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Costes Históricos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Action HistoricalCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Action 2759968916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Standard Cost</source>
+          <target state="translated">Costo Standard</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Estandar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Action StandardCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Action 799333823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Transport Ecom Cost</source>
+          <target state="translated">Costo Trasporto E-commerce</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Transp. Ecom."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Action TransEcomCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Action 3576733566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Historical Cost</source>
+          <target state="translated">Costi Storici</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Costes Históricos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Action HistoricalCost_Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 3976192163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Margin Setup</source>
+          <target state="translated">Margini</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Margenes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control SMG - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 4201773078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>History</source>
+          <target state="translated">Storici</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Histórico"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 1473413330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Current Transport Ecom. Cost</source>
+          <target state="translated">Costo Trasporto E-commerce Attuale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Trasp. Ecom. Actual"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control AmountEcommCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 1500066424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Current Standard Cost</source>
+          <target state="translated">Costo Standard Attuale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Standard Actual"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control AmountStdCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 3351927821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Active Standard Cost</source>
+          <target state="translated">Costo Standard Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Standard Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control SMGStandardCostHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 1818330490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Active Transport Ecom. Cost</source>
+          <target state="translated">Costo Trasporto E-commerce Attivato</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Trasp. Ecom. Activo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control SMGTransEcomCostHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2898602684 - Control 231256778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Margin</source>
+          <target state="translated">Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Item Card - Control Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3065724911 - Control 2694455607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Total Margin %</source>
+          <target state="translated">% Margine Totale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Margen Total"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SMG Sales Order Subform - Control SMGTotalMargin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 1648025024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Apply Apos Conditions</source>
+          <target state="translated">Applica APOs Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Aplica APOs Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG APOs Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 3097286101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Apply APOs Conditions Platform</source>
+          <target state="translated">Applica APOs Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Aplica APOs Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG APOs Conditions Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 4220847590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Apply Cols Conditions</source>
+          <target state="translated">Applica Conditions COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Aplica Condiciones COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG COLs Conditions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Comisión %"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 1146661613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Sales Discounts</source>
+          <target state="translated">Sconto Vendite Clienti</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Descuentos Venta Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Customer Sales Discounts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 603701687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Type</source>
+          <target state="translated">Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Customer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 3875689835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Devs. Fin. %</source>
+          <target state="translated">% Resi-Finanz.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Devs. Fin."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Devs Fin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 1036238884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>National Group</source>
+          <target state="translated">Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG National Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 4266769057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>NO Apply RAEE</source>
+          <target state="translated">RAEE Non Applicabile</target>
+          <note from="Developer" annotates="general" priority="2">ESP="No aplica RAEE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG No Apply RAEE - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 423130986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 3159416191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Purchase Group</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Compra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Purchase Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 271248047 - Field 3495557881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Transportation Sales %</source>
+          <target state="translated">% Trasporto Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Transporte ventas %"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Customer - Field SMG Transport Sales % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 205097128 - Field 3411146946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>RAEE Amount</source>
+          <target state="translated">Importo RAEE</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe RAEE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Item - Field SMG RAEE Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 205097128 - Field 3648269676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Royalty %</source>
+          <target state="translated">% Royalties</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Royalty"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Item - Field SMG Royalty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 205097128 - Field 2989959573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Standard Cost History</source>
+          <target state="translated">Storico Costi Standard</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Histórico Coste Estandar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Item - Field SMG Standard Cost History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 205097128 - Field 3478262914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Trans Ecom Cost History</source>
+          <target state="translated">Storico Costi Trasporto E-commerce</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Histórico Coste Transporte Ecom</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Item - Field SMG Trans Ecom Cost History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 205097128 - Field 2246881948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Warranty %</source>
+          <target state="translated">% Garanzia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Garantia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Item - Field SMG Warranty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 3829779292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Commission Amount</source>
+          <target state="translated">Importo Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Commission Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Disc. 1 %</source>
+          <target state="translated">Sconto 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2930874147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discount 1 Amount</source>
+          <target state="translated">Discount 1 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 1 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Disc. 2 %</source>
+          <target state="translated">Sconto 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2824675830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discount 2 Amount</source>
+          <target state="translated">Discount 2 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 2 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Disc. 3 %</source>
+          <target state="translated">Sconto 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2848922085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discount 3 Amount</source>
+          <target state="translated">Discount 3 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 3 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Disc. 4 %</source>
+          <target state="translated">Sconto 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 3109137584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discount 4 Amount</source>
+          <target state="translated">Discount 4 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 4 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Disc. 5 %</source>
+          <target state="translated">Sconto 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 2703569375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discount 5 Amount</source>
+          <target state="translated">Discount 5 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discount 5 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 3885345195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Discounts Total Amount</source>
+          <target state="translated">Importo Totale Sconto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Total Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Discounts Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1871121076 - Field 531934471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3059602325">
+          <source>Net Unit Price</source>
+          <target state="translated">Prezzo Netto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio Unitario Neto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Credit Memo Line - Field SMG Net Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2640927034 - Field 2943390178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Blocked for Short Margin</source>
+          <target state="translated">Margine Insufficiente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Margen Insuficiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Header - Field SMG Blocked for Short Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2640927034 - Field 3609676276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Total Margin %</source>
+          <target state="translated">% Margine Totale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Margen Total"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Header - Field SMG Total Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 3829779292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Commission Amount</source>
+          <target state="translated">Importo Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Commission Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Disc. 1 %</source>
+          <target state="translated">Sconto 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2930874147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discount 1 Amount</source>
+          <target state="translated">Discount 1 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 1 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Disc. 2 %</source>
+          <target state="translated">Sconto 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2824675830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discount 2 Amount</source>
+          <target state="translated">Discount 2 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 2 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Disc. 3 %</source>
+          <target state="translated">Sconto 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2848922085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discount 3 Amount</source>
+          <target state="translated">Discount 3 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 3 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Disc. 4 %</source>
+          <target state="translated">Sconto 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 3109137584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discount 4 Amount</source>
+          <target state="translated">Discount 4 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 4 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Disc. 5 %</source>
+          <target state="translated">Sconto 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 2703569375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discount 5 Amount</source>
+          <target state="translated">Discount 5 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discount 5 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 3885345195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Discounts Total Amount</source>
+          <target state="translated">Importo Totale Sconto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Total Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Discounts Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 875315442 - Field 531934471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Net Unit Price</source>
+          <target state="translated">Prezzo Netto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio Unitario Neto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Invoice Line - Field SMG Net Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3364892414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>% APOS Excluded Invoice</source>
+          <target state="translated">ondizioni F.F. % APOs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cond. F.F. % APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG % APOS Excluded Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 606317624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>% COLS Excluded Invoice</source>
+          <target state="translated">Condizioni F.F. % COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cond. F.F. % COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG % COLS Excluded Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2943390178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Blocked for Short Margin</source>
+          <target state="translated">Bloccato per Margine Insufficiente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bloqueado por Margen Insuficiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Blocked for Short Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3829779292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Commission Amount</source>
+          <target state="translated">Importo Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Commission Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3875689835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Devs. Fin. %</source>
+          <target state="translated">% Resi-Finanz.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Devs. Fin."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Devs Fin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Disc. 1 %</source>
+          <target state="translated">Sconto 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2930874147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discount 1 Amount</source>
+          <target state="translated">Sconto Importo 1</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 1 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Disc. 2 %</source>
+          <target state="translated">Sconto 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2824675830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discount 2 Amount</source>
+          <target state="translated">Sconto Importo 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 2 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Disc. 3 %</source>
+          <target state="translated">Sconto 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2848922085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discount 3 Amount</source>
+          <target state="translated">Sconto Importo 3</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 3 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Disc. 4 %</source>
+          <target state="translated">Sconto 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3109137584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discount 4 Amount</source>
+          <target state="translated">Sconto Importo 4</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 4 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Disc. 5 %</source>
+          <target state="translated">Sconto 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2703569375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discount 5 Amount</source>
+          <target state="translated">Sconto Importo 5</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discount 5 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3885345195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Discounts Total Amount</source>
+          <target state="translated">Importo Totale Sconto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Total Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Discounts Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2137995478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Margin %</source>
+          <target state="translated">% Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 531934471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Net Unit Price</source>
+          <target state="translated">Prezzo Netto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio Unitario Neto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Net Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3411146946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>RAEE Amount</source>
+          <target state="translated">Importo RAEE</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe RAEE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG RAEE Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3648269676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Royalty %</source>
+          <target state="translated">% Royalties</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Royalty"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Royalty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3495557881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Transportation Sales %</source>
+          <target state="translated">% Trasporto Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Transporte Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Transport Sales % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 3637536783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Unit Margin Amount</source>
+          <target state="translated">Importo Margine Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Margen Unitario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Unit Margin Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 296786191 - Field 2246881948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2903552224">
+          <source>Warranty %</source>
+          <target state="translated">% Garanzia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Garantia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Line Archive - Field SMG Warranty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3364892414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>% APOS Excluded Invoice</source>
+          <target state="translated">Condizioni F.F. % APOs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cond. F.F. % APOS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG % APOS Excluded Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 606317624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>% COLS Excluded Invoice</source>
+          <target state="translated">Condizioni F.F. % COLs</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cond. F.F. % COLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG % COLS Excluded Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2943390178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Blocked for Short Margin</source>
+          <target state="translated">Bloccato per Margine Insufficiente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Bloqueado por Margen Insuficiente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Blocked for Short Margin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3829779292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Commission Amount</source>
+          <target state="translated">Importo Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Commission Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3875689835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Devs. Fin. %</source>
+          <target state="translated">% Resi-Finanz.</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Devs. Fin."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Devs Fin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Disc. 1 %</source>
+          <target state="translated">Sconto 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2930874147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discount 1 Amount</source>
+          <target state="translated">Importo Sconto 1</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 1 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Disc. 2 %</source>
+          <target state="translated">Sconto 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2824675830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discount 2 Amount</source>
+          <target state="translated">Importo Sconto 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 2 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Disc. 3 %</source>
+          <target state="translated">Sconto 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2848922085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discount 3 Amount</source>
+          <target state="translated">Importo Sconto 3</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 3 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Disc. 4 %</source>
+          <target state="translated">Sconto 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3109137584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discount 4 Amount</source>
+          <target state="translated">Importo Sconto 4</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 4 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Disc. 5 %</source>
+          <target state="translated">Sconto 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2703569375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discount 5 Amount</source>
+          <target state="translated">Importo Sconto 5</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discount 5 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3885345195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Discounts Total Amount</source>
+          <target state="translated">Importo Totale Sconto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Total Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Discounts Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2137995478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Margin %</source>
+          <target state="translated">% Margine</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Margen"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 531934471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Net Unit Price</source>
+          <target state="translated">Prezzo Neto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio Unitario Neto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Net Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3411146946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>RAEE Amount</source>
+          <target state="translated">Importo RAEE</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe RAEE"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG RAEE Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3648269676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Royalty %</source>
+          <target state="translated">% Royalties</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Royalty"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Royalty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3495557881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Transportation Sales %</source>
+          <target state="translated">% Trasporto Vendite</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Transporte Ventas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Transport Sales % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 3637536783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Unit Margin Amount</source>
+          <target state="translated">Importo Margine Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Margen Unitario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Unit Margin Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1583910584 - Field 2246881948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Warranty %</source>
+          <target state="translated">% Garanzia</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Garantia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Lines - Field SMG Warranty % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 1319405667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Commission %</source>
+          <target state="translated">% Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="% Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Commission % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 3829779292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Commission Amount</source>
+          <target state="translated">Importo Commissione</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Comisión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Commission Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2408139716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Disc. 1 %</source>
+          <target state="translated">Disc. 1 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 1 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2930874147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discount 1 Amount</source>
+          <target state="translated">Discount 1 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 1 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 948322013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Disc. 2 %</source>
+          <target state="translated">Disc. 2 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 2 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2824675830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discount 2 Amount</source>
+          <target state="translated">Discount 2 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 2 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 312894902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Disc. 3 %</source>
+          <target state="translated">Disc. 3 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 3 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2848922085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discount 3 Amount</source>
+          <target state="translated">Discount 3 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 3 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2341438855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Disc. 4 %</source>
+          <target state="translated">Disc. 4 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 4 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 3109137584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discount 4 Amount</source>
+          <target state="translated">Discount 4 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 4 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 1541217440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Disc. 5 %</source>
+          <target state="translated">Disc. 5 %</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 5 % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 2703569375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discount 5 Amount</source>
+          <target state="translated">Discount 5 Amount</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discount 5 Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 3885345195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Discounts Total Amount</source>
+          <target state="translated">Importo Totale Scontos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Importe Total Descuentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Discounts Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3166254009 - Field 531934471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Net Unit Price</source>
+          <target state="translated">Prezzo Netto Unitario</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Precio Unitario Neto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SMG Sales Shipment Line - Field SMG Net Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2355810240 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target state="translated">Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG APOS Type - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2355810240 - EnumValue 844698329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG APOS Type - EnumValue Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 291619661 - EnumValue 1754546768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type</source>
+          <target state="translated">Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Customer Classification - EnumValue Customer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 291619661 - EnumValue 929926419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group</source>
+          <target state="translated">Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Customer Classification - EnumValue National Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 291619661 - EnumValue 844698329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Customer Classification - EnumValue Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 291619661 - EnumValue 1207450155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchasing Group</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Compras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Customer Classification - EnumValue Purchasing Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262299960 - EnumValue 2422062699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ecomm Transport Cost</source>
+          <target state="translated">Trasporto E-commerce</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Transporte Ecomm"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Item Hist Margin Type - EnumValue Ecomm Transport Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3262299960 - EnumValue 2838254244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Cost</source>
+          <target state="translated">Costo Standard</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Coste Estandar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Item Hist Margin Type - EnumValue Standard Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1128522584 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target state="translated">Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Sales Discount Type - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1128522584 - EnumValue 1754546768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Type</source>
+          <target state="translated">Tipo di Cliente</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Tipo Cliente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Sales Discount Type - EnumValue Customer Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1128522584 - EnumValue 929926419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>National Group</source>
+          <target state="translated">Gruppo Nazionale</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Nacional"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Sales Discount Type - EnumValue National Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1128522584 - EnumValue 844698329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
+          <target state="translated">Piattaforma</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Plataforma"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Sales Discount Type - EnumValue Platform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1128522584 - EnumValue 1207450155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchasing Group</source>
+          <target state="translated">Gruppo di Acquisto</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo Compras"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SMG Sales Discount Type - EnumValue Purchasing Group - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

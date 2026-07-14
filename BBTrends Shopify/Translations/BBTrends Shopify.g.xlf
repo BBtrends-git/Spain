@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BBTrends Shopify">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1681619269 - Method 1578195059 - NamedType 578242643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment is not released</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El envio no esta lanzado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Management - Method SendWhseShptToBBSGA_SHOPIFY - NamedType Error01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1681619269 - Method 1578195059 - NamedType 782590172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipment has already been reported to SGA</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Envio ya informado en SGA"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Management - Method SendWhseShptToBBSGA_SHOPIFY - NamedType Msg01</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1977882070 - NamedType 2219800383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch name is blank</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El nombre está en blanco"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Price Sync - NamedType BatchISBlankMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1977882070 - NamedType 3726724574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel is successfully imported</source>
+          <note from="Developer" annotates="general" priority="2">ESP="El archivo se importó correctamente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Price Sync - NamedType ExcelImportSucess</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1977882070 - NamedType 511806700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Excel file found</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No se encontró ningún archivo de Excel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Price Sync - NamedType NoFileFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1977882070 - NamedType 4273853447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Choose the Excel file</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Seleccione el archivo de Excel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BBT Shpfy Price Sync - NamedType UploadExcelMsg</note>
+        </trans-unit>
+        <trans-unit id="Query 4204239354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BI Shopify Orders</source>
+          <note from="Developer" annotates="general" priority="2">ESP="BI Pedidos Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query BBT Shpfy BI Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2455671652 - Control 3702298894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Shopify</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Item Card Ext - Control Shopify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2034855289 - Action 3657829122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 437915150">
+          <source>Validate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Validar"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Order Ext - Action Validate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 3941047774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2806160088">
+          <source>Prices</source>
+          <note from="Developer" annotates="general" priority="2">ESP="BBT Tarifas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action Tarifas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 3183679136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2806160088">
+          <source>BBT Import Excel Prices</source>
+          <note from="Developer" annotates="general" priority="2">ESP="BBT Importar precios Excel"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1050555070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2806160088">
+          <source>BBT Sync Shopify Prices</source>
+          <note from="Developer" annotates="general" priority="2">ESP="BBT Sincronizar precios Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Auto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1050555070 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1574415499">
+          <source>Do you want to update Shopify's prices?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Desea actualizar los precios de los productos en Shopify?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Auto - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1050555070 - Method 1377591017 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1574415499">
+          <source>End of Process</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Proceso finalizado."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Auto - Method OnAction - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1957793289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2806160088">
+          <source>BBT Manual Sync Shopify Prices</source>
+          <note from="Developer" annotates="general" priority="2">ESP="BBT Sincronizar manualmente precios Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Man - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1957793289 - Method 1377591017 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1574415499">
+          <source>Do you want to update Shopify's prices?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="¿Desea actualizar los precios de los productos seleccionados en Shopify?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Man - Method OnAction - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574415499 - Action 1957793289 - Method 1377591017 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1574415499">
+          <source>End of Process</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Proceso finalizado."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Products Ext - Action BBT_SyncPrices_Man - Method OnAction - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2421349171 - Control 1286603273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1970429680">
+          <source>Shopify API Settings</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración API Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension BBT Shpfy Shop Card Ext - Control Shopify API Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 738303405 - Field 2469987647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Active on Shopify</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Activo en Shopify"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shopfy Item Ext - Field e-commerce - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 738303405 - Field 366222595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>In Liquidation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="En Liquidación"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shopfy Item Ext - Field En Liquidación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2034855289 - Field 6608222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 75584159">
+          <source>Locked by price</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Bloqueado por precio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Order Ext - Field Blocked per price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2034855289 - Field 3687312408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 75584159">
+          <source>Validate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Validado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Order Ext - Field Validado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 1774157749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>% Price Difference</source>
+          <note from="Developer" annotates="general" priority="2">ESP="% Diferencia Precio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field % Diferencia precio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Clave API"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 2818161561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>API Password</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Contraseña API"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field API Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 2310708482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>API Secret</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Secreto API"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field API Secret - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 2230178025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>API Shop URL</source>
+          <note from="Developer" annotates="general" priority="2">ESP="URL tienda API"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field API Shop URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 3687300662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>API Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field API Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 3417314870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>Customer Price Validation</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cliente Validación Precio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field Customer Price Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 3055343606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>ID MarketPlace</source>
+          <note from="Developer" annotates="general" priority="2">ESP="MarketPlace ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field ID Marketplace - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 353228690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>Main Location</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén Principal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field Main Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 2250327665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>MarketPlace</source>
+          <note from="Developer" annotates="general" priority="2">ESP="MarketPlace"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field MarketPlace - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1366386783 - Field 1376666399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2860632388">
+          <source>Minimum Stock</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Stock Mínimo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension BBT Shpfy Shop Ext - Field Stock Mínimo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 748719860 - EnumValue 996258046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1420853479">
+          <source>BB Trends</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension BBT Stock Calc Ext - EnumValue BB Trends - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

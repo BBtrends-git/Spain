@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>SCM API - Mapeo de Campos</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; }
+    h1 { font-size: 24px; }
+    h2 { font-size: 20px; margin-top: 24px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 12px; }
+    th, td { border: 1px solid #444; padding: 8px; }
+    th { background-color: #f2f2f2; }
+    .note { font-size: 0.9em; color: #333; margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <h1>SCM API - Mapeo de Campos (para Word)</h1>
+  <p class="note">Este documento está estructurado con tablas que se pueden abrir directamente en Microsoft Word (archivo HTML). Cada sección corresponde a un objeto API del conjunto de extensiones.</p>
+
+  <h2>SCM API Item (Page 51250)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th><th>Notas</th></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>Codigo</td><td>No.</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>Descripcion</td><td>Description</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>UnidaBase</td><td>Base Unit of Measure</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>Marca</td><td>Global Dimension 2 Code</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>BloqueoCompra</td><td>Purchasing Blocked</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>BloqueoVenta</td><td>Sales Blocked</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>Item</td><td>Categoria</td><td>Item Category Code</td><td></td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>TipoItem</td><td>(calculado)</td><td>Basado en Item Category Code</td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>Planificacion</td><td>(calculado)</td><td>Según Reordering Policy</td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>Reposicion</td><td>(calculado)</td><td>Según Replenishment System</td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>Estado</td><td>(calculado)</td><td>Según bloqueos</td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>Familia</td><td>(calculado)</td><td>Desde Item Category</td></tr>
+    <tr><td>SCM API Item</td><td>API Page</td><td>---</td><td>Subfamilia</td><td>(calculado)</td><td>Desde Item Category</td></tr>
+  </table>
+
+  <h2>SCM API Customer (Page 51251)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>Codigo</td><td>No.</td></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>Nombre</td><td>Name</td></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>GrupoCompra</td><td>Purchase Group</td></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>TipoCliente</td><td>Customer Type</td></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>GrupoNacional</td><td>National Group</td></tr>
+    <tr><td>SCM API Customer</td><td>API Page</td><td>Customer</td><td>Plataforma</td><td>Platform</td></tr>
+  </table>
+
+  <h2>SCM API Vendor (Page 51253)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Vendor</td><td>API Page</td><td>Vendor</td><td>Codigo</td><td>No.</td></tr>
+    <tr><td>SCM API Vendor</td><td>API Page</td><td>Vendor</td><td>Nombre</td><td>Name</td></tr>
+  </table>
+
+  <h2>SCM API Purchase Line (Page 51254)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Document</td><td>Document No.</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Line</td><td>Line No.</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>OrderDate</td><td>Order Date</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Vendor</td><td>Pay-to Vendor No.</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Location</td><td>Location Code</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>ExpectedReceiptDate</td><td>Expected Receipt Date</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Item</td><td>No.</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Quantity</td><td>Quantity</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>LineAmount</td><td>Line Amount</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>Currency</td><td>Currency Code</td></tr>
+    <tr><td>SCM API Purchase Line</td><td>API Page</td><td>Purchase Line</td><td>OutstandingQuantity</td><td>Outstanding Quantity</td></tr>
+  </table>
+  <p class="note"><strong>Filtros aplicados:</strong> Document Type = Order; Type = Item; Quantity &lt;&gt; 0; Outstanding Quantity &gt; 0</p>
+
+  <h2>SCM API Sales Order Line (Page 51257)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Document</td><td>Document No.</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Line</td><td>Line No.</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Date</td><td>Shipment Date</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Customer</td><td>Sell-to Customer No.</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Warehouse</td><td>Location Code</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Item</td><td>No.</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Quantity</td><td>Outstanding Quantity</td></tr>
+    <tr><td>SCM API Sales Order Line</td><td>API Page</td><td>Sales Line</td><td>Amount</td><td>Line Amount</td></tr>
+  </table>
+  <p class="note"><strong>Filtros aplicados:</strong> Document Type = Order; Type = Item; Quantity &lt;&gt; 0; Outstanding Quantity &lt;&gt; 0</p>
+
+  <h2>SCM API Sales Invoice Line (Page 51252)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Document</td><td>Document No.</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Line</td><td>Line No.</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Date</td><td>Posting Date</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Customer</td><td>Sell-to Customer No.</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Warehouse</td><td>Location Code</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Item</td><td>No.</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Quantity</td><td>Quantity</td></tr>
+    <tr><td>SCM API Sales Invoice Line</td><td>API Page</td><td>Sales Invoice Line</td><td>Amount</td><td>Line Amount</td></tr>
+  </table>
+  <p class="note"><strong>Filtros aplicados:</strong> Type = Item; Quantity &lt;&gt; 0; Document No. empieza con <code>FV*</code></p>
+
+  <h2>SCM API Sales CrMemo Line (Page 51258)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Document</td><td>Document No.</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Line</td><td>Line No.</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Date</td><td>Posting Date</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Customer</td><td>Sell-to Customer No.</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Warehouse</td><td>Location Code</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Item</td><td>No.</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Quantity</td><td>Quantity</td></tr>
+    <tr><td>SCM API Sales CrMemo Line</td><td>API Page</td><td>Sales Cr. Memo Line</td><td>Amount</td><td>Line Amount</td></tr>
+  </table>
+  <p class="note"><strong>Filtros aplicados:</strong> Type = Item; Quantity &lt;&gt; 0; Document No. empieza con <code>AV*</code></p>
+
+  <h2>SCM API Item Vendor (Page 51255)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>Item</td><td>No.</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>Vendor</td><td>Vendor No.</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>LeadTime</td><td>Lead Time Calculation</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>AcumulationPeriod</td><td>Lot Accumulation Period</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>SafetyStock</td><td>Safety Stock Quantity</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>MaximunInventory</td><td>Maximum Inventory</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>MinimumQuantity</td><td>Minimum Order Quantity</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Item</td><td>LotIncrement</td><td>Order Multiple</td></tr>
+  </table>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen / Nota</th></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Vendor</td><td>Location</td><td>Vendor.Location Code (calculado en OnAfterGetRecord)</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>Purchase Price</td><td>PurchasePrice</td><td>Calculado desde tabla Purchase Price + Currency Exchange Rate</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>---</td><td>MinimumCoverage</td><td>Valor fijo: 0D</td></tr>
+    <tr><td>SCM API Item Vendor</td><td>API Page</td><td>---</td><td>MaximunCoverage</td><td>Valor fijo: 0D</td></tr>
+  </table>
+  <p class="note"><strong>Filtro aplicado:</strong> Vendor No. &lt;&gt; ''</p>
+
+  <h2>SCM API Requisition WorkSheet (Page 51256)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Requisition WorkSheet</td><td>API Page</td><td>Requisition Line</td><td>Tipo</td><td>Type</td></tr>
+    <tr><td>SCM API Requisition WorkSheet</td><td>API Page</td><td>Requisition Line</td><td>Codigo</td><td>No.</td></tr>
+    <tr><td>SCM API Requisition WorkSheet</td><td>API Page</td><td>Requisition Line</td><td>Cantidad</td><td>Quantity</td></tr>
+    <tr><td>SCM API Requisition WorkSheet</td><td>API Page</td><td>Requisition Line</td><td>Fecha</td><td>Due Date</td></tr>
+  </table>
+  <p class="note"><strong>Valores fijados al iniciar/crear:</strong> Worksheet Template Name = REQ.; Journal Batch Name = SCM; Type = Item; Location Code = MARGA-Q</p>
+
+  <h2>SCM API Inventory (Query 51250)</h2>
+  <table>
+    <tr><th>Objeto</th><th>Tipo</th><th>Tabla origen</th><th>Campo API</th><th>Campo origen</th></tr>
+    <tr><td>SCM API Inventory</td><td>API Query</td><td>Item Ledger Entry</td><td>Item_No</td><td>Item No.</td></tr>
+    <tr><td>SCM API Inventory</td><td>API Query</td><td>Item Ledger Entry</td><td>Location_Code</td><td>Location Code</td></tr>
+    <tr><td>SCM API Inventory</td><td>API Query</td><td>Item Ledger Entry</td><td>Sum_Quantity</td><td>Remaining Quantity (sum)</td></tr>
+  </table>
+  <p class="note"><strong>Filtro aplicado:</strong> Sum_Quantity &lt;&gt; 0</p>
+
+</body>
+</html>

@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:cl="http://schemas.microsoft.com/sqlserver/reporting/2010/01/componentdefinition" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/reportdefinition">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>1c0da05d-29d7-44c4-9d5d-4681d586586d</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Tablix Name="Tablix1">
+            <TablixBody>
+              <TablixColumns>
+                <TablixColumn>
+                  <Width>5.5058in</Width>
+                </TablixColumn>
+              </TablixColumns>
+              <TablixRows>
+                <TablixRow>
+                  <Height>3.96019in</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Rectangle Name="Rectangle1">
+                          <ReportItems>
+                            <Image Name="CompanyInfoPicture">
+                              <Source>Database</Source>
+                              <Value>=Convert.ToBase64String(First(Fields!CompanyInfo_Logo.Value, "DataSet_Result"))</Value>
+                              <MIMEType>image/bmp</MIMEType>
+                              <Sizing>FitProportional</Sizing>
+                              <Top>0.62093cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>65.99721pt</Height>
+                              <Width>2.97177cm</Width>
+                              <DataElementOutput>NoOutput</DataElementOutput>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                              </Style>
+                            </Image>
+                            <Textbox Name="CompanyInfo_Data">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!CompanyInfo_Data.Value)</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>8pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>CompanyInfo_Data</rd:DefaultName>
+                              <Top>9.55652cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>13.4742cm</Width>
+                              <ZIndex>1</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Bottom</VerticalAlign>
+                                <PaddingLeft>5pt</PaddingLeft>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ShipToCaption">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Ucase(First(Fields!ShipToCaption.Value) &amp; ":")</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>9pt</FontSize>
+                                        <FontWeight>Bold</FontWeight>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ShipToCaption</rd:DefaultName>
+                              <Top>3.1313cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>6.01896cm</Width>
+                              <ZIndex>2</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ShippingAgentCaption">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!ShippingAgentCaption.Value) &amp; ":"</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>9pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ShippingAgentCaption</rd:DefaultName>
+                              <Top>6.89367cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>2.26188cm</Width>
+                              <ZIndex>3</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ShipmentNoCaption">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!ShipmentNoCaption.Value) &amp; ":"</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>9pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ShipmentNoCaption</rd:DefaultName>
+                              <Top>7.53926cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>2.26188cm</Width>
+                              <ZIndex>4</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ShipmentDateCaption">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!ShipmentDateCaption.Value) &amp; ":"</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>9pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ShipmentDateCaption</rd:DefaultName>
+                              <Top>8.18451cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>2.26188cm</Width>
+                              <ZIndex>5</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ShippingAggent_Name">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!ShippingAggent_Name.Value)</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ShippingAggent_Name</rd:DefaultName>
+                              <Top>6.89367cm</Top>
+                              <Left>2.82179cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>5.22521cm</Width>
+                              <ZIndex>6</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_No">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!SalesShipmentHeader_No.Value)</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_No</rd:DefaultName>
+                              <Top>7.53926cm</Top>
+                              <Left>2.82179cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>5.22521cm</Width>
+                              <ZIndex>7</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_PostingDate">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!SalesShipmentHeader_PostingDate.Value)</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <Format>dd-MM-yyyy</Format>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_PostingDate</rd:DefaultName>
+                              <Top>8.18451cm</Top>
+                              <Left>2.82179cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>5.22521cm</Width>
+                              <ZIndex>8</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Line Name="Line1">
+                              <Top>0.85588cm</Top>
+                              <Left>2.91506cm</Left>
+                              <Height>0cm</Height>
+                              <Width>10.52217cm</Width>
+                              <ZIndex>9</ZIndex>
+                              <Visibility>
+                                <Hidden>true</Hidden>
+                              </Visibility>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                  <Width>12pt</Width>
+                                </Border>
+                              </Style>
+                            </Line>
+                            <Textbox Name="Textbox1">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!TotalLabels.Value</Value>
+                                      <Style>
+                                        <FontSize>43pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Left</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Textbox1</rd:DefaultName>
+                              <Top>7.6368cm</Top>
+                              <Left>11.41348cm</Left>
+                              <Height>1.84916cm</Height>
+                              <Width>2.57125cm</Width>
+                              <ZIndex>10</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Line Name="Line2">
+                              <Top>8.78776cm</Top>
+                              <Left>10.68323cm</Left>
+                              <Height>-1.90315cm</Height>
+                              <Width>1.27cm</Width>
+                              <ZIndex>11</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>Solid</Style>
+                                  <Width>5pt</Width>
+                                </Border>
+                              </Style>
+                            </Line>
+                            <Textbox Name="Textbox2">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!CurrentLabel.Value</Value>
+                                      <Style>
+                                        <FontSize>43pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style>
+                                    <TextAlign>Right</TextAlign>
+                                  </Style>
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>Textbox1</rd:DefaultName>
+                              <Top>6.29301cm</Top>
+                              <Left>8.34286cm</Left>
+                              <Height>1.84916cm</Height>
+                              <Width>2.68521cm</Width>
+                              <ZIndex>12</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ShiptoName">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!SalesShipmentHeader_ShiptoName.Value</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ShiptoName</rd:DefaultName>
+                              <Top>3.66046cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.5cm</Height>
+                              <Width>12.63566cm</Width>
+                              <ZIndex>13</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ShiptoAddress">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!SalesShipmentHeader_ShiptoAddress.Value</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ShiptoAddress</rd:DefaultName>
+                              <Top>4.22667cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.5cm</Height>
+                              <Width>12.63566cm</Width>
+                              <ZIndex>14</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ShiptoPostCode">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!SalesShipmentHeader_ShiptoPostCode.Value &amp; " " &amp; 
+Fields!SalesShipmentHeader_ShiptoCounty.Value</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ShiptoPostCode</rd:DefaultName>
+                              <Top>4.75551cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.5cm</Height>
+                              <Width>12.63566cm</Width>
+                              <ZIndex>15</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ShiptoCounty">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!SalesShipmentHeader_ShiptoCounty.Value</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ShiptoCounty</rd:DefaultName>
+                              <Top>5.29139cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.5cm</Height>
+                              <Width>7.53647cm</Width>
+                              <ZIndex>16</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ShiptoCountryRegionCode">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=Fields!SalesShipmentHeader_ShiptoCountryRegionCode.Value</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ShiptoCountryRegionCode</rd:DefaultName>
+                              <Top>5.80359cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.5cm</Height>
+                              <Width>7.53647cm</Width>
+                              <ZIndex>17</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="SalesShipmentHeader_ExternalDocumentNo">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!SalesShipmentHeader_ExternalDocumentNo.Value)</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>SalesShipmentHeader_ExternalDocumentNo</rd:DefaultName>
+                              <Top>8.80544cm</Top>
+                              <Left>2.82179cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>5.22521cm</Width>
+                              <ZIndex>18</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                            <Textbox Name="ReferenceCaption">
+                              <KeepTogether>true</KeepTogether>
+                              <Paragraphs>
+                                <Paragraph>
+                                  <TextRuns>
+                                    <TextRun>
+                                      <Value EvaluationMode="Auto">=First(Fields!ReferenceCaption.Value) &amp; ":"</Value>
+                                      <Style>
+                                        <FontFamily>Segoe UI</FontFamily>
+                                        <FontSize>9pt</FontSize>
+                                      </Style>
+                                    </TextRun>
+                                  </TextRuns>
+                                  <Style />
+                                </Paragraph>
+                              </Paragraphs>
+                              <rd:DefaultName>ReferenceCaption</rd:DefaultName>
+                              <Top>8.80544cm</Top>
+                              <Left>0.51053cm</Left>
+                              <Height>0.423cm</Height>
+                              <Width>2.26188cm</Width>
+                              <ZIndex>19</ZIndex>
+                              <Style>
+                                <Border>
+                                  <Style>None</Style>
+                                </Border>
+                                <VerticalAlign>Middle</VerticalAlign>
+                              </Style>
+                            </Textbox>
+                          </ReportItems>
+                          <KeepTogether>true</KeepTogether>
+                          <Style>
+                            <Border>
+                              <Style>None</Style>
+                            </Border>
+                          </Style>
+                        </Rectangle>
+                      </CellContents>
+                    </TablixCell>
+                  </TablixCells>
+                </TablixRow>
+              </TablixRows>
+            </TablixBody>
+            <TablixColumnHierarchy>
+              <TablixMembers>
+                <TablixMember />
+              </TablixMembers>
+            </TablixColumnHierarchy>
+            <TablixRowHierarchy>
+              <TablixMembers>
+                <TablixMember>
+                  <Group Name="Details">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!SalesShipmentHeader_No.Value</GroupExpression>
+                      <GroupExpression>=Fields!CurrentLabel.Value</GroupExpression>
+                    </GroupExpressions>
+                    <PageBreak>
+                      <BreakLocation>StartAndEnd</BreakLocation>
+                    </PageBreak>
+                    <Filters>
+                      <Filter>
+                        <FilterExpression>=Fields!SalesShipmentHeader_No.Value</FilterExpression>
+                        <Operator>GreaterThan</Operator>
+                        <FilterValues>
+                          <FilterValue>""</FilterValue>
+                        </FilterValues>
+                      </Filter>
+                    </Filters>
+                  </Group>
+                </TablixMember>
+              </TablixMembers>
+            </TablixRowHierarchy>
+            <DataSetName>DataSet_Result</DataSetName>
+            <Height>3.96019in</Height>
+            <Width>5.5058in</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Tablix>
+        </ReportItems>
+        <Height>10.0589cm</Height>
+        <Style />
+      </Body>
+      <Width>13.98473cm</Width>
+      <Page>
+        <PageHeight>10.5cm</PageHeight>
+        <PageWidth>15cm</PageWidth>
+        <LeftMargin>0.1cm</LeftMargin>
+        <RightMargin>0.1cm</RightMargin>
+        <TopMargin>0.1cm</TopMargin>
+        <BottomMargin>0.1cm</BottomMargin>
+        <ColumnSpacing>1.27cm</ColumnSpacing>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="ReportForNavId_1100234022">
+          <DataField>ReportForNavId_1100234022</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Logo">
+          <DataField>CompanyInfo_Logo</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1100234004">
+          <DataField>ReportForNavId_1100234004</DataField>
+        </Field>
+        <Field Name="ShipToCaption">
+          <DataField>ShipToCaption</DataField>
+        </Field>
+        <Field Name="ShippingAgentCaption">
+          <DataField>ShippingAgentCaption</DataField>
+        </Field>
+        <Field Name="ShipmentNoCaption">
+          <DataField>ShipmentNoCaption</DataField>
+        </Field>
+        <Field Name="ShipmentDateCaption">
+          <DataField>ShipmentDateCaption</DataField>
+        </Field>
+        <Field Name="ReferenceCaption">
+          <DataField>ReferenceCaption</DataField>
+        </Field>
+        <Field Name="CompanyInfo_Data">
+          <DataField>CompanyInfo_Data</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1100234000">
+          <DataField>ReportForNavId_1100234000</DataField>
+        </Field>
+        <Field Name="ReportForNavId_1100234013">
+          <DataField>ReportForNavId_1100234013</DataField>
+        </Field>
+        <Field Name="ShippingAggent_Name">
+          <DataField>ShippingAggent_Name</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_No">
+          <DataField>SalesShipmentHeader_No</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_PostingDate">
+          <DataField>SalesShipmentHeader_PostingDate</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoName">
+          <DataField>SalesShipmentHeader_ShiptoName</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoAddress">
+          <DataField>SalesShipmentHeader_ShiptoAddress</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoPostCode">
+          <DataField>SalesShipmentHeader_ShiptoPostCode</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoCity">
+          <DataField>SalesShipmentHeader_ShiptoCity</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoCounty">
+          <DataField>SalesShipmentHeader_ShiptoCounty</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ExternalDocumentNo">
+          <DataField>SalesShipmentHeader_ExternalDocumentNo</DataField>
+        </Field>
+        <Field Name="SalesShipmentHeader_ShiptoCountryRegionCode">
+          <DataField>SalesShipmentHeader_ShiptoCountryRegionCode</DataField>
+        </Field>
+        <Field Name="CurrentLabel">
+          <DataField>CurrentLabel</DataField>
+        </Field>
+        <Field Name="TotalLabels">
+          <DataField>TotalLabels</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>

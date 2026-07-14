@@ -1,0 +1,44 @@
+{
+  "id": "18b982ea-7531-4e77-99a0-7ca26ddc6d0a",
+  "name": "BBTrends RMAs",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.2",
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [
+        {
+        "id": "d4d8b943-deea-4de2-9e15-dbbf14b442ed",
+        "name": "BBTrends Base",
+        "version": "27.0.0.0",
+        "publisher": "B&B Trends"
+        }
+  ],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 51200,
+      "to": 51249
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": 
+  [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

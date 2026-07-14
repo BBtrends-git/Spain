@@ -1,0 +1,519 @@
+Page 50009 "Sales Cr. Memo Lines List"
+{
+    // //INC-2018-06-93710 Mostrar campo 50101 "Service Zone Code"
+    Caption = 'Sales Cr. Memo Lines List';
+    DeleteAllowed = false;
+    InsertAllowed = false;
+    ModifyAllowed = false;
+    PageType = List;
+    SourceTable = "Sales Cr.Memo Line";
+    UsageCategory = Documents;
+    ApplicationArea = all;
+
+    layout
+    {
+        area(content)
+        {
+            repeater(Group)
+            {
+                field("Posting Date"; Rec."Posting Date")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Sell-to Customer No."; Rec."Sell-to Customer No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Customer Name"; Rec."Customer Name")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Document No."; Rec."Document No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Line No."; Rec."Line No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Type; Rec.Type)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("No."; Rec."No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Location Code"; Rec."Location Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Posting Group"; Rec."Posting Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Shipment Date"; Rec."Shipment Date")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Description; Rec.Description)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Description 2"; Rec."Description 2")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit of Measure"; Rec."Unit of Measure")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Quantity; Rec.Quantity)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit Price"; Rec."Unit Price")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Divisa; Divisa)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit Cost (LCY)"; Rec."Unit Cost (LCY)")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT %"; Rec."VAT %")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Line Discount %"; Rec."Line Discount %")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Line Discount Amount"; Rec."Line Discount Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Amount; Rec.Amount)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Amount Including VAT"; Rec."Amount Including VAT")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Allow Invoice Disc."; Rec."Allow Invoice Disc.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Gross Weight"; Rec."Gross Weight")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Net Weight"; Rec."Net Weight")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Units per Parcel"; Rec."Units per Parcel")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit Volume"; Rec."Unit Volume")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Appl.-to Item Entry"; Rec."Appl.-to Item Entry")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Shortcut Dimension 1 Code"; Rec."Shortcut Dimension 1 Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Shortcut Dimension 2 Code"; Rec."Shortcut Dimension 2 Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Customer Price Group"; Rec."Customer Price Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Job No."; Rec."Job No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Work Type Code"; Rec."Work Type Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Bill-to Customer No."; Rec."Bill-to Customer No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Inv. Discount Amount"; Rec."Inv. Discount Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Gen. Bus. Posting Group"; Rec."Gen. Bus. Posting Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Gen. Prod. Posting Group"; Rec."Gen. Prod. Posting Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Calculation Type"; Rec."VAT Calculation Type")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Transaction Type"; Rec."Transaction Type")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Transport Method"; Rec."Transport Method")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Attached to Line No."; Rec."Attached to Line No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Exit Point"; Rec."Exit Point")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Area"; Rec.Area)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Transaction Specification"; Rec."Transaction Specification")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Tax Category"; Rec."Tax Category")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Tax Area Code"; Rec."Tax Area Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Tax Liable"; Rec."Tax Liable")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Tax Group Code"; Rec."Tax Group Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Clause Code"; Rec."VAT Clause Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Bus. Posting Group"; Rec."VAT Bus. Posting Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Prod. Posting Group"; Rec."VAT Prod. Posting Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Blanket Order No."; Rec."Blanket Order No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Blanket Order Line No."; Rec."Blanket Order Line No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Base Amount"; Rec."VAT Base Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit Cost"; Rec."Unit Cost")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("System-Created Entry"; Rec."System-Created Entry")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Line Amount"; Rec."Line Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Difference"; Rec."VAT Difference")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("VAT Identifier"; Rec."VAT Identifier")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("IC Partner Ref. Type"; Rec."IC Partner Ref. Type")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("IC Partner Reference"; Rec."IC Partner Reference")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Prepayment Line"; Rec."Prepayment Line")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("IC Partner Code"; Rec."IC Partner Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Dimension Set ID"; Rec."Dimension Set ID")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Job Task No."; Rec."Job Task No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Job Contract Entry No."; Rec."Job Contract Entry No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Deferral Code"; Rec."Deferral Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Variant Code"; Rec."Variant Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Bin Code"; Rec."Bin Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Qty. per Unit of Measure"; Rec."Qty. per Unit of Measure")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit of Measure Code"; Rec."Unit of Measure Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Quantity (Base)"; Rec."Quantity (Base)")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("FA Posting Date"; Rec."FA Posting Date")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Depreciation Book Code"; Rec."Depreciation Book Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Depr. until FA Posting Date"; Rec."Depr. until FA Posting Date")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Duplicate in Depreciation Book"; Rec."Duplicate in Depreciation Book")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Use Duplication List"; Rec."Use Duplication List")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Responsibility Center"; Rec."Responsibility Center")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Cross-Reference No."; Rec."Item Reference No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Unit of Measure (Cross Ref.)"; Rec."Item Reference Unit of Measure")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Cross-Reference Type"; Rec."Item Reference Type")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Cross-Reference Type No."; Rec."Item Reference Type No.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Item Category Code"; Rec."Item Category Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Nonstock; Rec.Nonstock)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Purchasing Code"; Rec."Purchasing Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Appl.-from Item Entry"; Rec."Appl.-from Item Entry")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Return Reason Code"; Rec."Return Reason Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Allow Line Disc."; Rec."Allow Line Disc.")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Customer Disc. Group"; Rec."Customer Disc. Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Pmt. Disc. Given Amount"; Rec."Pmt. Discount Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("EC %"; Rec."EC %")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("EC Difference"; Rec."EC Difference")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("EAN Code"; Rec."EAN Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                //>> BBT. 16/03/2026. Implantación de la extensión SMG.
+                //field("Net Unit Price"; Rec."Net Unit Price")
+                field("Net Unit Price"; Rec."SMG Net Unit Price")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 1 %"; Rec."Discount 1 %")
+                field("Discount 1 %"; Rec."SMG Discount 1 %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 2 %"; Rec."Discount 2 %")
+                field("Discount 2 %"; Rec."SMG Discount 2 %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 3 %"; Rec."Discount 3 %")
+                field("Discount 3 %"; Rec."SMG Discount 3 %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 4 %"; Rec."Discount 4 %")
+                field("Discount 4 %"; Rec."SMG Discount 4 %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 5 %"; Rec."Discount 5 %")
+                field("Discount 5 %"; Rec."SMG Discount 5 %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 1 Amount"; Rec."Discount 1 Amount")
+                field("Discount 1 Amount"; Rec."SMG Discount 1 Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 2 Amount"; Rec."Discount 2 Amount")
+                field("Discount 2 Amount"; Rec."SMG Discount 2 Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 3 Amount"; Rec."Discount 3 Amount")
+                field("Discount 3 Amount"; Rec."SMG Discount 3 Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 4 Amount"; Rec."Discount 4 Amount")
+                field("Discount 4 Amount"; Rec."SMG Discount 4 Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discount 5 Amount"; Rec."Discount 5 Amount")
+                field("Discount 5 Amount"; Rec."SMG Discount 5 Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Discounts Total Amount"; Rec."Discounts Total Amount")
+                field("Discounts Total Amount"; Rec."SMG Discounts Total Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Commission %"; Rec."Commission %")
+                field("Commission %"; Rec."SMG Commission %")
+                {
+                    ApplicationArea = Basic;
+                }
+                //field("Commission Amount"; Rec."Commission Amount")
+                field("Commission Amount"; Rec."SMG Commission Amount")
+                {
+                    ApplicationArea = Basic;
+                }
+                //<<
+                field("Service Zone Code"; Rec."Service Zone Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Salesperson Code"; Rec."Salesperson Code")
+                {
+                    ApplicationArea = Basic;
+                }
+                //>> BBT. SMG Extension. 
+                /*
+                field("Purchase Group"; Rec."Purchase Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                field("Customer Type"; Rec."Customer Type")
+                {
+                    ApplicationArea = Basic;
+                }
+                field(Platform; Rec.Platform)
+                {
+                    ApplicationArea = Basic;
+                }
+                field("National Group"; Rec."National Group")
+                {
+                    ApplicationArea = Basic;
+                }
+                */
+                //<<
+            }
+        }
+        area(factboxes)
+        {
+            systempart(Control1100234001; Notes)
+            {
+                Visible = false;
+            }
+            systempart(Control1100234000; Links)
+            {
+                Visible = false;
+            }
+        }
+    }
+    actions
+    { }
+
+    var
+        rSalesCrMemoHeader: Record "Sales Cr.Memo Header";
+        Divisa: Code[10];
+
+    trigger OnAfterGetRecord()
+    begin
+        Clear(Divisa);
+        rSalesCrMemoHeader.Reset;
+        rSalesCrMemoHeader.SetRange("No.", Rec."Document No.");
+        if rSalesCrMemoHeader.FindFirst then Divisa := rSalesCrMemoHeader."Currency Code";
+    end;
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bae024a4-c5a5-46da-9a67-ea88d519895b",
+  "name": "BBTrends Shopify",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.6",
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [
+    {
+      "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+      "publisher": "Microsoft",
+      "name": "Shopify Connector",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "d4d8b943-deea-4de2-9e15-dbbf14b442ed",
+      "publisher": "B&B Trends",
+      "name": "BBTrends Base",
+      "version": "28.0.0.0"
+    },
+    {
+    "id": "1627c646-a639-4a0c-82cb-75416b7b3f5b",
+    "publisher": "B&B Trends",
+    "name": "BBTrends SMG",
+    "version": "28.0.0.0"
+    },
+    {
+    "id": "d7bef88b-1e93-4319-a6c9-7b810cc737e8",
+    "publisher": "B&B Trends",
+    "name": "BBTrends SGA",
+    "version": "28.0.1.1"
+    }
+  ],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 73100,
+      "to": 73150
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": 
+  [
+    "NoImplicitWith",
+    "TranslationFile" 
+  ]
+}

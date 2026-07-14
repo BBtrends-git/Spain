@@ -1,0 +1,120 @@
+Report 50020 "BBT Change Log - Delete"
+//fin - An application object of type 'Report' with ID '510' is already declared by the extension 'Base Application by Microsoft (18.0.23013.23795)'ALAL0264
+//    -  An application object of type 'Report' with name 'Change Log - Delete' is already declared by the extension 'Base Application by Microsoft (18.0.23013.23795)
+{
+    Caption = 'Change Log - Delete', comment = 'ESP="Registro cambios - Eliminar"';
+    Permissions = TableData "Change Log Entry" = rid;
+    ProcessingOnly = true;
+    UsageCategory = Tasks;
+
+    dataset
+    {
+        dataitem("Change Log Entry"; "Change Log Entry")
+        {
+            DataItemTableView = SORTING("Table No.", "Primary Key Field 1 Value");
+            RequestFilterFields = "Date and Time", "Table No.";
+
+            trigger OnPostDataItem()
+            begin
+                TryDeleteProtectedRecords();
+            end;
+
+            trigger OnPreDataItem()
+            begin
+                SetRange(Protected, false);
+                SetRange("Field Log Entry Feature", "Field Log Entry Feature"::"Change Log");
+                DeleteAll();
+                //>> BBT                
+                if ("Change Log Entry".GetFilter("Date and Time") = '') then if BatchDelete then "Change Log Entry".SetFilter("Date and Time", '..%1', CreateDatetime(CalcDate('<-2M>', Today), 0T));
+                //<<
+            end;
+        }
+    }
+    requestpage
+    {
+        layout
+        { }
+        actions
+        { }
+        trigger OnOpenPage()
+        begin
+            //>> BBT
+            // if "Change Log Entry".GetFilter("Date and Time") = '' then
+            //     "Change Log Entry".SetFilter("Date and Time", '..%1', CreateDateTime(CalcDate('<-1Y>', Today), 0T));
+            //<<
+        end;
+
+        trigger OnQueryClosePage(CloseAction: Action): Boolean
+        var
+            ChangeLogEntry: Record "Change Log Entry";
+            ConfirmManagement: Codeunit "Confirm Management";
+        begin
+            //>> BBT
+            BatchDelete := false;
+            //<<
+            if CloseAction = ACTION::Cancel then exit(true);
+            if "Change Log Entry".GetFilter("Date and Time") <> '' then begin
+                ChangeLogEntry.CopyFilters("Change Log Entry");
+                if not ChangeLogEntry.FindLast() then Error(NothingToDeleteErr);
+                if DT2Date(ChangeLogEntry."Date and Time") > CalcDate('<-1Y>', Today) then if not ConfirmManagement.GetResponse(Text002, false) then exit(false);
+            end
+            else begin
+                //>> BBT
+                //    if not ConfirmManagement.GetResponse(Text001, false) then
+                //        exit(false);
+                BatchDelete := true;
+                //<<
+            end;
+            exit(true);
+        end;
+    }
+    labels
+    { }
+    trigger OnPostReport()
+    var
+        ConfirmManagement: Codeunit "Confirm Management";
+    begin
+        if not GuiAllowed then exit;
+        Window.Close();
+        if not TempErrorMessage.IsEmpty() then begin
+            if ConfirmManagement.GetResponse(SomeEntriesNotDeletedQst, true) then PAGE.RunModal(PAGE::"Error Messages", TempErrorMessage);
+        end
+        else
+            Message(DeletedMsg);
+    end;
+
+    trigger OnPreReport()
+    begin
+        if GuiAllowed then Window.Open(DialogMsg);
+    end;
+
+    var
+        TempErrorMessage: Record "Error Message" temporary;
+        Window: Dialog;
+        DialogMsg: Label 'Entries are being deleted...\\@1@@@@@@@@@@@@', comment = 'ESP="Se están eliminando los movimientos...\\@1@@@@@@@@@@@@"';
+        CounterTotal: Integer;
+        Counter: Integer;
+        Text001: Label 'You have not defined a date filter. Do you want to continue?', comment = 'ESP="No ha definido ningún filtro de fechas. ¿Confirma que desea continuar?"';
+        Text002: Label 'Your date filter allows deletion of entries that are less than one year old. Do you want to continue?', comment = 'ESP="Su filtro de fecha permite eliminar movimientos de menos de un año de antigüedad. ¿Confirma que desea continuar?"';
+        NothingToDeleteErr: Label 'There are no entries within the filter.', comment = 'ESP="No hay movimientos dentro del filtro."';
+        DeletedMsg: Label 'The selected entries were deleted.', comment = 'ESP="Se eliminaron los movimientos seleccionadas."';
+        SomeEntriesNotDeletedQst: Label 'One or more entries cannot be deleted.\\Do you want to open the list of errors?', comment = 'ESP="Uno o más movimientos no se pueden eliminar.\\¿Quiere abrir la lista de errores?"';
+        BatchDelete: Boolean;
+
+    local procedure TryDeleteProtectedRecords()
+    var
+        ChangeLogEntry: Record "Change Log Entry";
+    begin
+        ChangeLogEntry.CopyFilters("Change Log Entry");
+        ChangeLogEntry.SetRange(Protected, true);
+        CounterTotal := ChangeLogEntry.Count();
+        if ChangeLogEntry.FindSet(true) then
+            repeat
+                Counter += 1;
+                if GuiAllowed then Window.Update(1, Round(Counter / CounterTotal * 10000, 1));
+                Commit();
+                //if not CODEUNIT.Run(CODEUNIT::"Change Log Entry - Delete", ChangeLogEntry) then
+                TempErrorMessage.LogLastError();
+            until ChangeLogEntry.Next() = 0;
+    end;
+}

@@ -1,0 +1,36 @@
+{
+  "id": "f00cebdd-0a77-49ec-ab42-eab1598f3988",
+  "name": "BBTrends SRM",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.1",
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 51351,
+      "to": 51399
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": 
+  [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

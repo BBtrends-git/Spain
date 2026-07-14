@@ -1,0 +1,44 @@
+{
+  "id": "d7bef88b-1e93-4319-a6c9-7b810cc737e8",
+  "name": "BBTrends SGA",
+  "publisher": "B&B Trends",
+  "version": "28.0.1.8",
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "runtime": "15.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": 
+  [
+	  {
+      "id": "d4d8b943-deea-4de2-9e15-dbbf14b442ed",
+      "publisher": "B&B Trends",
+      "name": "BBTrends Base",
+      "version": "27.0.0.0"
+	  } 
+  ],
+  "screenshots": [],
+  "idRanges": 
+  [
+    {
+      "from": 51450,
+      "to": 51499
+    }
+  ],
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": 
+  [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
