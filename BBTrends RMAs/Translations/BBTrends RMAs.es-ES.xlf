@@ -1047,6 +1047,12 @@
           <note from="Developer" annotates="general" priority="2">ESP="Imagen"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Control ItemPicture - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 231734384 - Action 2285695694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packaging and residues</source>
+          <target state="translated">Envases y residuos</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Envases y residuos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RMAs Item Card - Action Packaging_Residues - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 897044048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item Comments</source>
           <target state="translated">Comentarios del Producto</target>
