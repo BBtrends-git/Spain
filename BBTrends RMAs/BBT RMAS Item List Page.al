@@ -86,8 +86,12 @@ page 51224 "RMAs Item List"
             }
             part(ReturnCommentFaxbox; "RMAs Item Comment Lines Faxbox")
             {
-                ApplicationArea = Suite;
+                ApplicationArea = All;
                 SubPageLink = "Table Name" = filter(Item), "No." = field("No.");
+            }
+            systempart(ItemLinks; Links)
+            {
+                ApplicationArea = RecordLinks;
             }
         }
     }
@@ -102,5 +106,4 @@ page 51224 "RMAs Item List"
         area(Promoted)
         { }
     }
-
 }
