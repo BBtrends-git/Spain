@@ -10,7 +10,7 @@
 | Carpeta | Módulo | Versión actual |
 |---|---|---|
 | `BBTrends APIs` | APIs | v28.0.1.3 |
-| `BBTrends Base` | Base | v28.0.1.22 |
+| `BBTrends Base` | Base | v28.0.1.23 |
 | `BBTrends RMAs` | RMAs | v28.0.1.3 |
 | `BBTrends SCM` | SCM | v28.0.1.1 |
 | `BBTrends SGA` | SGA | v28.0.1.8 |
