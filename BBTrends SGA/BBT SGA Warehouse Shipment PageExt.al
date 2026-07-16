@@ -41,6 +41,12 @@ PageExtension 51458 "SGA Warehouse Shipment" extends "Warehouse Shipment"
                 ApplicationArea = All;
                 Visible = SGAEnabled;
             }
+            field(SGASourceExternalDoc; SourceExternalDoc)
+            {
+                ApplicationArea = All;
+                Visible = SGAEnabled;
+                Caption = 'Source External Document', Comment = 'ESP="Documento Externo"';
+            }
         }
     }
     actions
@@ -107,6 +113,7 @@ PageExtension 51458 "SGA Warehouse Shipment" extends "Warehouse Shipment"
         SGADocEditable := true;
     end;
 
+    /*
     trigger OnAfterGetCurrRecord()
     var
         rSalesHeader: Record "Sales Header";
@@ -127,6 +134,7 @@ PageExtension 51458 "SGA Warehouse Shipment" extends "Warehouse Shipment"
             end;
         end;
     end;
+    */
 
     trigger OnAfterGetRecord()
     begin
@@ -183,6 +191,26 @@ PageExtension 51458 "SGA Warehouse Shipment" extends "Warehouse Shipment"
             end
             else
                 exit(true);
+        end;
+    end;
+
+    local procedure SourceExternalDoc(): Text[50]
+    var
+        rSalesHeader: Record "Sales Header";
+    begin
+        case Rec."SGA Destination Type" of
+            Rec."SGA destination type"::Customer:
+                begin
+                    rSalesHeader.Reset;
+                    rSalesHeader.SetRange("Document Type", rSalesHeader."document type"::Order);
+                    rSalesHeader.SetRange("No.", Rec."SGA Source No.");
+                    if rSalesHeader.FindFirst then
+                        exit(rSalesHeader."External Document No.")
+                    else
+                        exit('');
+                end;
+            else
+                exit('');
         end;
     end;
 }

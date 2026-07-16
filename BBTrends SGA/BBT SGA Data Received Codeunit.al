@@ -53,9 +53,9 @@ Codeunit 51451 "SGA Data Received"
         //COMMIT;
 
         // OK
-        //CLEAR(SGAInterfaces);
-        //SGAInterfaces.AlbVentaDocEnvio;
-        //COMMIT;
+        CLEAR(SGAInterfaces);
+        SGAInterfaces.AlbVentaDocEnvio;
+        COMMIT;
 
         // PDTE - NO SE VA A USAR.
         //CLEAR(SGAInterfaces);

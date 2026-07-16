@@ -6,14 +6,6 @@ PageExtension 50215 "BBT Warehouse Shipment" extends "Warehouse Shipment"
         {
             Editable = DocEditable;
         }
-
-        moveafter("Posting Date"; "External Document No.")
-
-        modify("External Document No.")
-        {
-            Visible = true;
-            Editable = false;
-        }
         modify("Assigned User ID")
         {
             Visible = false;
@@ -30,7 +22,6 @@ PageExtension 50215 "BBT Warehouse Shipment" extends "Warehouse Shipment"
         {
             visible = false;
         }
-
         //>> SGA
         addafter(Status)
         {
@@ -60,7 +51,6 @@ PageExtension 50215 "BBT Warehouse Shipment" extends "Warehouse Shipment"
         }
         //<<
         //>> BBT 03/07/2026. Disponibilidad del producto
-
         addafter(Control1901796907)
         {
             part(AvailableInWarehouse; "BBT Available in Warehouse")

@@ -1,9 +1,13 @@
 Page 50097 "Log NAVSGA Errors"
 {
+    //>> BBT. Nueva Extensión SGA
+    ObsoleteState = Pending;
+    //UsageCategory = Documents;
+    //<<
     Editable = false;
     PageType = List;
     SourceTable = "Log NAVSGA Errors";
-    UsageCategory = Documents;
+
     ApplicationArea = all;
 
     layout

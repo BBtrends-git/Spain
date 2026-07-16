@@ -693,6 +693,11 @@
           <note from="Developer" annotates="general" priority="2">ESP="El envio no esta lanzado"</note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Action SGASent - Method OnAction - NamedType Error02</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4105116980 - Control 3892528527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2938519335">
+          <source>Source External Document</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Documento Externo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGA Warehouse Shipment - Control SGASourceExternalDoc - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2058068038 - Control 233059804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1558066289">
           <source>Destination Name</source>
           <note from="Developer" annotates="general" priority="2">ESP="Nombre Destino"</note>

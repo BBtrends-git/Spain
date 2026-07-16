@@ -1,12 +1,16 @@
 Page 51299 "SGA Lista Bloqueos"
 {
+    //>> BBT. Nueva Extensión SGA
+    ObsoleteState = Pending;
+    //UsageCategory = Lists;
+    //<<
     Caption = 'SGA Lista Bloqueos';
     DeleteAllowed = false;
     Editable = false;
     InsertAllowed = false;
     PageType = List;
     SourceTable = "BBT-IT SGA Blocked Documents";
-    UsageCategory = Lists;
+
     ApplicationArea = all;
     layout
     {
