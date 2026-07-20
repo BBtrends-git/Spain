@@ -13,7 +13,7 @@
 | `BBTrends Base` | Base | v28.0.1.23 |
 | `BBTrends RMAs` | RMAs | v28.0.1.3 |
 | `BBTrends SCM` | SCM | v28.0.1.1 |
-| `BBTrends SGA` | SGA | v28.0.1.8 |
+| `BBTrends SGA` | SGA | v28.0.1.9 |
 | `BBTrends Shopify` | Shopify | v28.0.1.6 |
 | `BBTrends SMG` | SMG | v28.0.1.6 |
 | `BBTrends SRM` | SRM | v28.0.1.1 |
