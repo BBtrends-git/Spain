@@ -452,6 +452,7 @@ codeunit 51300 "SMG Management"
         end;
 
         // Siguiente el resto de lineas
+        rSalesLineAux.Reset();
         rSalesLineAux.SetRange("Document Type", pSalesLine."Document Type");
         rSalesLineAux.SetRange("Document No.", pSalesLine."Document No.");
         rSalesLineAux.SetFilter("Line No.", '<>%1', pSalesLine."Line No.");
@@ -462,16 +463,16 @@ codeunit 51300 "SMG Management"
                 if rSalesLineAux."SMG Net Unit Price" = 0 then begin
                     if rItem.Get(rSalesLineAux."No.") then
                         if rItem."Costing Method" = rItem."Costing Method"::Standard then
-                            SumMarginAmount += -(rItem."Standard Cost" * pSalesLine.Quantity)
+                            SumMarginAmount += -(rItem."Standard Cost" * rSalesLineAux.Quantity)
                         else
-                            SumMarginAmount += -(rItem."Unit Cost" * pSalesLine.Quantity);
+                            SumMarginAmount += -(rItem."Unit Cost" * rSalesLineAux.Quantity);
                 end
                 else
                     SumMarginAmount += rSalesLineAux."SMG Unit Margin Amount" * rSalesLineAux.Quantity;
 
                 vTotalAmount += (rSalesLineAux."SMG Net Unit Price"
                                 - (SMGPercentageFFCOLS(pSalesLine."Bill-to Customer No.") * rSalesLineAux."SMG Net Unit Price" / 100)
-                                - (SMGPercentageFFAPOS(pSalesLine."Bill-to Customer No.", pSalesLine."No.") * rSalesLineAux."SMG Net Unit Price" / 100))
+                                - (SMGPercentageFFAPOS(pSalesLine."Bill-to Customer No.", rSalesLineAux."No.") * rSalesLineAux."SMG Net Unit Price" / 100))
                                 * rSalesLineAux.Quantity;
             until rSalesLineAux.Next() = 0;
 
