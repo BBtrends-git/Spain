@@ -16,7 +16,9 @@ codeunit 51453 "SGA Events"
         cuSGAManagement: Codeunit "SGA Management";
     begin
         if cuSGAManagement.IsSGAEnabled then begin
-            rec."SGA Requires Modification" := rec.SGAItemModification;
+            if Rec."SGA Item Management" then begin
+                Rec."SGA Requires Modification" := Rec.SGAItemModification;
+            end;
         end;
     end;
 
@@ -30,9 +32,11 @@ codeunit 51453 "SGA Events"
         if cuSGAManagement.IsSGAEnabled then begin
             rItem.Reset();
             if rItem.Get(Rec."Item No.") then begin
-                clear(cuSGAInterfaces);
-                cuSGAInterfaces.GestionProducto(rItem);
-                Clear(cuSGAInterfaces);
+                if rItem."SGA Item Management" then begin
+                    clear(cuSGAInterfaces);
+                    cuSGAInterfaces.GestionProducto(rItem);
+                    Clear(cuSGAInterfaces);
+                end;
             end;
         end;
     end;
@@ -45,9 +49,9 @@ codeunit 51453 "SGA Events"
         rItem: Record Item;
     begin
         if cuSGAManagement.IsSGAEnabled then begin
-            if rItem."SGA Item Management" then begin
-                rItem.Reset();
-                if rItem.Get(Rec."Item No.") then begin
+            rItem.Reset();
+            if rItem.Get(Rec."Item No.") then begin
+                if rItem."SGA Item Management" then begin
                     clear(cuSGAInterfaces);
                     cuSGAInterfaces.GestionProducto(rItem);
                     Clear(cuSGAInterfaces);

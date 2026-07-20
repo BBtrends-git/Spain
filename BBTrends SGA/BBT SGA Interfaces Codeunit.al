@@ -2824,8 +2824,8 @@ codeunit 51452 "SGA Interfaces"
         FechaExpedicionEntregaTxt: Text;
         TextoError: Text;
         Error01: Label 'Incorrect date', Comment = 'ESP="Fecha incorrecta"';
-        Error02: Label 'Does not exist the delivery note with delivery number ',
-                Comment = 'ESP="No existe el albarán con número de entrega "';
+        Error02: Label 'There is no packing slip for this warehouse delivery',
+                Comment = 'ESP="No existe albarán para esta entrega de almacén"';
     begin
         // SGA Enabled
         if not cuSGAManagement.IsSGAEnabled() then exit;
@@ -2866,7 +2866,7 @@ codeunit 51452 "SGA Interfaces"
                     rSalesShipmentHeader.Modify();
                 end
                 else
-                    TextoError := Error02 + NumeroEntregaAlmacen;
+                    TextoError := Error02; //+ NumeroEntregaAlmacen;
             end;
             if TextoError = '' then TextoError := 'CORRECTO';
             rSGATemporalSQL.INIT;

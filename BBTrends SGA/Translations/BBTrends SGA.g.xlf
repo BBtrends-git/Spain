@@ -464,8 +464,8 @@
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method EntregasExpedidas - NamedType Error01</note>
         </trans-unit>
         <trans-unit id="Codeunit 4022816501 - Method 953965626 - NamedType 2491332494" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Does not exist the delivery note with delivery number </source>
-          <note from="Developer" annotates="general" priority="2">ESP="No existe el albarán con número de entrega "</note>
+          <source>There is no packing slip for this warehouse delivery</source>
+          <note from="Developer" annotates="general" priority="2">ESP="No existe albarán para esta entrega de almacén"</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit SGA Interfaces - Method EntregasExpedidas - NamedType Error02</note>
         </trans-unit>
         <trans-unit id="Codeunit 4022816501 - Method 755521138 - NamedType 221805532" size-unit="char" translate="yes" xml:space="preserve">
