@@ -22,6 +22,12 @@
 
 ---
 
+## Referencias
+
+- [microsoft/BCApps](https://github.com/microsoft/BCApps) — Código fuente público (licencia MIT) de la Base Application y las localizaciones nativas de Business Central, publicado por Microsoft. Útil para consultar la lógica estándar de BC sin depender de descargar símbolos desde un entorno.
+
+---
+
 ## Flujo de trabajo
 
 ### 1. Configuración inicial (una sola vez)
