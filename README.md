@@ -19,6 +19,7 @@
 | `BBTrends SRM` | SRM | v28.0.1.1 |
 | `BBTrends Tools` | Tools | v28.0.1.3 |
 | `BBTrends Tools_IT` | Tools IT | v28.0.1.3 |
+| `BDO Support Extensions/Report Air Miles` | Report Air Miles | — |
 
 ---
 
